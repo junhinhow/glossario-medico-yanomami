@@ -1,0 +1,2331 @@
+EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
+SCS Quadra 9, Edifício Parque Cidade Corporate, Torre C, 1° ao 3° andares - Bairro Asa Sul
+Brasília-DF, CEP 70308-200
+- http://www.ebserh.gov.br
+Edital - SEI
+Processo nº 23477.010157/2025-17
+Interessado: Serviço de Gestão da Pesquisa, CGPITS/DEPI/EBSERH, Diretoria de Ensino, Pesquisa e Inovação
+EDITAL Nº 02/2025
+PROGRAMA DE INICIAÇÃO TECNOLÓGICA DA EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
+A Diretora de Ensino, Pesquisa e Inovação (DEPI), da Empresa Brasileira de Serviços Hospitalares (Ebserh), no uso das suas atribuições
+legais, torna público o Edital nº 02/2025 PIT, destinado à seleção pública de bolsistas do Programa de Iniciação Tecnológica (PIT/Ebserh) a ser executado
+nos Hospitais Universitários Federais da Rede Ebserh.
+O Programa, em parceria com o Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), foi instituído pela Portaria - SEI
+nº 60, de 14 de outubro de 2022, publicada no Boletim de Serviço nº 1.414, de 14 de outubro de 2022, em consonância com as normativas do CNPq.
+1.
+
+DO OBJETO
+
+1.1.
+O Programa visa a seleção de estudantes de graduação para a concessão de bolsas de Iniciação Tecnológica, distribuídas pelos Hospitais
+Universitários Federais (HUF) da Rede Ebserh , conforme as vagas constantes no ANEXO I.
+1.2.
+As bolsas de iniciação tecnológica (IT) serão destinadas a alunos de graduação oportunizando o envolvimento de estudantes em
+conhecimentos, metodologias e práticas próprias ao desenvolvimento tecnológico e processos de inovação, atrelados ao desenvolvimento do pensar
+tecnológico e suas potencialidades.
+1.3.
+O PIT é centrado em projetos voltados ao desenvolvimento de tecnologias inovadoras em todas as áreas do conhecimento aplicadas à
+saúde e cujos projetos sejam executados nos HUF da Rede Ebserh ao qual o(a) bolsista e o(a) orientador(a) estejam vinculados.
+1.4.
+A concessão das bolsas do Programa de Iniciação Tecnológica (PIT) da Ebserh observará as diretrizes definidas neste edital e, no que
+couber, a Resolução Normativa (RN) nº 017/2006, do CNPq.
+2.
+
+DOS OBJETIVOS
+
+2.1.
+
+São objetivos do Programa de Iniciação Tecnológica (PIT/Ebserh):
+
+2.1.1.
+Selecionar e integrar alunos de graduação regularmente matriculados nas universidades às quais os HUFs da rede Ebserh estão vinculados
+em projetos de pesquisa, desenvolvimento e inovação, proporcionando o aperfeiçoamento pessoal, profissional e o pensamento crítico dos graduandos,
+sob a orientação de pesquisadores experientes em suas áreas de atuação.
+2.1.2.
+Consolidar o PIT na Rede Ebserh, fortalecendo o uso de metodologias científicas na busca de soluções para desafios cotidianos dos HUFs
+no âmbito do SUS, contribuindo para a melhoria do cuidado e/ou gestão.
+2.1.3.
+Ampliar o acesso e a integração de alunos de graduação beneficiários de ações afirmativas à cultura científica e tecnológica, aprimorando
+sua formação acadêmica e profissional.
+2.1.4.
+
+Estimular o vínculo acadêmico e a parceria com as universidades vinculadas aos HUFs da Ebserh.
+
+2.1.5.
+Despertar a vocação tecnológica e inovadora, incentivando talentos entre graduandos e demais profissionais envolvidos por meio da
+participação em projetos de pesquisa.
+2.1.6.
+tecnologia.
+
+Contribuir para a formação de recursos humanos voltados ao fortalecimento da capacidade empreendedora e à transferência de
+
+2.1.7.
+saúde.
+
+Promover a inovação tecnológica em diversas áreas do conhecimento, integrando saberes para a prevenção, promoção e recuperação da
+
+3.
+
+DAS VAGAS
+
+3.1.
+A seleção de bolsistas no âmbito do presente edital seguirá dois eixos principais: ampla concorrência e ações afirmativas. O processo de
+escolha visa garantir a equidade na distribuição das bolsas e assegurar a participação de estudantes em situação de vulnerabilidade social, promovendo
+a inclusão e a diversidade, conforme as diretrizes do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e a legislação federal
+vigente.
+3.2.
+Serão disponibilizadas 312 (trezentas e doze) vagas do Programa de Iniciação Tecnológica – PIT, sendo 138 (cento e trinta e oito) vagas
+destinadas a ações afirmativas, distribuídas por Hospital ou Complexo Hospitalar, conforme ANEXO I - Distribuição das Vagas do Programa de Iniciação
+Tecnológica – PIT/Ebserh.
+4.
+
+DAS VAGAS DESTINADAS ÀS POLÍTICAS DE AÇÕES AFIRMATIVAS (PAA)
+
+4.1.
+As vagas destinadas às ações afirmativas serão reservadas exclusivamente aos estudantes que tenham cursado integralmente o ensino
+médio em escolas públicas e que tenham ingressado na Universidade, no curso de graduação atual, por meio do sistema de ações afirmativas, nos
+
+termos da Lei nº 12.711, de 29 de agosto de 2012 e suas atualizações.
+4.2.
+O processo seletivo das vagas destinadas às ações afirmativas prevê reserva de vagas por meio de cotas para candidatos com renda
+familiar bruta inferior a um salário-mínimo per capita (RF), Pessoas Negras ou Pardas (PNP), Pessoas com Deficiência (PCD), Pessoas Indígenas (PI),
+Pessoas Quilombolas (PQ), e que tenham cursado integralmente o ensino médio em escola pública.
+4.3.
+
+Na hipótese de constatação de declaração falsa, o(a) candidato(a) será eliminado do processo seletivo.
+
+4.4.
+Caso alguma vaga reservada para determinada categoria de ações afirmativas não seja preenchida — por ausência de aprovados(as) ou
+inscritos(as) — a vaga remanescente será realocada, no âmbito do mesmo HUF, para a próxima categoria do sistema de reserva de vagas, observando-se
+a seguinte ordem de priorização: RF, PNP, PCD/PI/PQ, respeitando a ordem de classificação.
+4.5.
+Caso as vagas reservadas para ações afirmativas não sejam preenchidas, após a aplicação da ordem de realocação prevista no item 4.4,
+estas serão destinadas à ampla concorrência, no âmbito do mesmo HUF, respeitada a ordem de classificação.
+5.
+
+DA PARTICIPAÇÃO DE ALUNOS VOLUNTÁRIOS
+
+5.1.
+O programa de iniciação tecnológica para graduandos visa promover as atividades de pesquisa e a inovação tecnológica, incentivando,
+além dos bolsistas, a participação de alunos voluntários.
+5.2.
+
+Os HUF poderão disponibilizar vagas para participantes voluntários, em edital próprio, respeitadas as regras deste edital.
+
+5.3.
+Os estudantes voluntários terão as mesmas obrigações dos bolsistas exceto as descritas nos itens 10.1.2 e 10.1.9 e, no que couber,
+deverão cumprir as mesmas exigências especificadas neste Edital.
+6.
+
+DO FINANCIAMENTO E EXECUÇÃO DOS PAGAMENTOS DAS BOLSAS
+
+6.1.
+
+As bolsas de iniciação tecnológica serão financiadas com recursos da Ebserh, e a execução do pagamento ficará à cargo do CNPq.
+
+6.2.
+aluno(a).
+
+As bolsas terão a duração de 12 (doze) meses, conforme cronograma do programa, salvo se houver cancelamento ou substituição do(a)
+
+7.
+
+DA INSCRIÇÃO
+
+7.1.
+Cada HUF disponibilizará seu respectivo link para inscrições, respeitando as diretrizes e o cronograma (ANEXO II) estabelecidos neste
+edital. Esses links serão reunidos e disponibilizados de forma centralizada na página do PIT/Ebserh 2025.
+7.2.
+É responsabilidade do(a) candidato(a) acessar a página centralizada do PIT/Ebserh 2025, disponível em: https://www.gov.br/ebserh/ptbr/ensino-e-pesquisa/programas-de-iniciacao-cientifica-e-tecnologica/programa-de-iniciacao-tecnologica-pit, identificar o HUF ao qual deseja concorrer
+à vaga e clicar no link correspondente para efetuar sua inscrição.
+7.3.
+Cada candidato(a) só poderá se inscrever para concorrer a uma vaga em apenas um HUF, devendo selecionar o hospital vinculado à
+universidade na qual o(a) candidato(a) está regularmente matriculado(a).
+7.4.
+O(A) candidato(a) deverá optar, no momento da inscrição, por concorrer pela ampla concorrência ou pela reserva de vagas destinadas às
+Políticas de Ações Afirmativas.
+7.4.1.
+Os(as) candidatos(as) que optarem pelas vagas reservadas também concorrerão, em igualdade de condições, às vagas da ampla
+concorrência, de acordo com sua classificação geral.
+7.5.
+
+Nos casos de duplicidade de inscrição, será considerada apenas a última.
+
+7.6.
+
+O(A) candidato(a) deverá fornecer as seguintes informações e documentos no momento da inscrição:
+
+7.6.1.
+
+Dados e documentos do(a) candidato(a):
+a) Nome civil completo;
+b) Nome social;
+c) CPF;
+d) Gênero;
+e) Cor ou raça;
+f) Nº de celular ou telefone de contato;
+g) E-mail;
+h) Endereço completo com CEP;
+i) ORCID;
+j) Link para o Currículo Lattes atualizado (atualizado há no máximo 3 meses da data da inscrição);
+k) Curso de graduação e período;
+l) Área de conhecimento do curso de graduação:
+I-
+
+Ciências Exatas e da Terra;
+
+II -
+
+Ciências Biológicas;
+
+III -
+
+Engenharias;
+
+IV -
+
+Ciências da Saúde;
+
+V-
+
+Ciências Agrárias;
+
+VI -
+
+Ciências Humanas;
+
+VII -
+
+Linguística, Letras e Artes;
+
+VIII -
+
+Ciências Sociais Aplicadas.
+
+m) Categoria de escolha, se ampla concorrência ou vagas destinadas às Ações Afirmativas. Para vaga de ação afirmativa, selecionar a cota
+específica (RF, PNP, PCD/PI/PQ);
+n) Faixa de renda familiar per capita;
+o) Anexar currículo Lattes atualizado do aluno (atualizado há no máximo 3 meses da data da inscrição), em pdf.
+7.6.2.
+
+Dados e documentos do(a) orientador(a):
+a) Nome completo do orientador(a);
+b) E-mail;
+c) ORCID;
+d) Link para o Currículo Lattes atualizado (atualizado há no máximo 3 meses da data da inscrição);
+e) Anexar o Currículo Lattes atualizado (atualizado há no máximo 3 meses da data da inscrição), com comprovantes, em pdf único;
+
+Os títulos relacionados abaixo, referentes aos critérios de pontuação para avaliação do(a) orientador(a), conforme tabela disposta na
+seção DA SELEÇÃO DAS PROPOSTAS, deverão estar reunidos no mesmo PDF do Lattes, para consulta pelo comitê institucional.
+I-
+
+Título de Mestrado;
+
+II -
+
+Título de Doutorado;
+
+III -
+
+Coordenação de projeto de pesquisa ou desenvolvimento tecnológico/ inovação aprovado;
+
+IV Orientação de alunos: projetos de iniciação científica e/ou de tecnológica; trabalho de conclusão da residência (TCR);
+mestrado profissional; projeto de desenvolvimento tecnológico (concluídos ou em andamento);
+V-
+
+Resumos publicados em anais ou outros veículos de comunicação;
+
+VI -
+
+Artigos em periódicos indexados;
+
+VII Comprovantes de Pedido de concessão de patente; patente concedida; Registros de softwares; Tecnologia transferida;
+Produtos; Processos; Aplicações ou serviços inovadores desenvolvidos etc.
+f) Anexar Declaração da Gerência de Ensino e Pesquisa (GEP) para comprovar a atividade como preceptor no HUF;
+g) Anexar comprovantes de participação em comissões permanentes do HUF;
+inscrição);
+
+h) Anexar comprovante de vínculo institucional com a Universidade ou HUF (documento emitido nos últimos 3 meses da data da
+
+Serão considerados documentos que comprovam o vínculo institucional emitidos nos últimos 3 meses da data de inscrição: 1) Para
+empregados públicos da Ebserh: contracheque ou declaração da Divisão de Gestão de Pessoas da Ebserh (DIVGP); 2) Para servidores das Universidades
+vinculadas ao Hospital: contracheque ou declaração da unidade responsável pela gestão de pessoas; 3) Para ambos os vínculos também será aceita a
+Carteira Digital emitida por meio do SOUGOV.BR com QR code.
+7.6.3.
+
+Dados e documentos do projeto:
+a) Título;
+b) Descritores (palavras-chave);
+
+c) Protocolo de submissão ou Parecer Consubstanciado do Comitê de Ética em Pesquisa (CEP) local, caso o projeto envolva seres
+humanos, observadas as normas aplicáveis;
+d) Principal área de conhecimento de acordo com o CNPq;
+e) Número do código do projeto inserido no sistema SIG - Rede Pesquisa;
+f) Identificar se o projeto tem ou não tem potencial de gerar Propriedade Intelectual (marca, patente, programa de computador, desenho
+industrial, direito autoral, ou outros);
+III;
+
+g) Informação/Indicação do tipo de projeto (melhoria ou nova tecnologia, produto, serviço ou processo), conforme instruções do ANEXO
+
+h) Anexar Projeto de Iniciação Tecnológica anonimizado, com plano de trabalho do aluno, conforme instruções do ANEXO III.
+7.7.
+
+Cada orientador(a) poderá orientar até 2 (dois) projetos diferentes, sendo permitida a indicação de apenas 1 (um) bolsista por projeto.
+
+7.8.
+O preenchimento incorreto do formulário de inscrição, ou a ausência de quaisquer documentos ou informações necessárias para o
+julgamento do mérito das propostas submetidas ao PIT/Ebserh, implicará o indeferimento da inscrição.
+7.9.
+
+A veracidade e acurácia das informações prestadas no momento da inscrição são de responsabilidade do(a) candidato(a).
+
+7.10.
+
+Não serão aceitas inscrições efetuadas em desacordo com o estabelecido neste edital.
+
+7.11.
+
+Não serão aceitos documentos fora do prazo de inscrição estabelecido neste edital.
+
+7.12.
+Em caso de dúvidas, o(a) interessado(a) deverá entrar em contato com a área responsável no respectivo HUF, por meio do e-mail indicado
+no ANEXO IV - Relação de e-mails para dirimir dúvidas.
+8.
+
+DA CONCESSÃO DAS BOLSAS
+
+8.1.
+
+As bolsas no âmbito do PIT/Ebserh terão o valor de R$ 700,00 (setecentos reais) mensais, conforme tabela de valores do CNPq.
+
+8.2.
+O pagamento mensal das bolsas será efetuado única e exclusivamente por meio de conta corrente do Banco do Brasil, sob titularidade
+do(a) candidato(a).
+8.3.
+A bolsa terá vigência de 12 (doze) meses, conforme cronograma do programa, salvo se houver solicitação de cancelamento ou
+substituição do aluno.
+8.3.1.
+O(a) aluno(a) substituto(a) fará jus apenas às bolsas correspondentes ao período restante de vigência do projeto, sendo vedado o
+recebimento retroativo. O total de bolsas a serem concedidas será equivalente à diferença entre as 12 (doze) parcelas previstas e aquelas já pagas ao(s)
+bolsista(s) anteriormente vinculado(s) ao projeto.
+8.4.
+
+O(a) bolsista cuja bolsa for cancelada ou que for substituído(a) não poderá reintegrar-se ao PIT do ciclo correspondente.
+
+8.5.
+o CNPq.
+
+O recebimento da bolsa não implica em reconhecimento de vínculo empregatício, ou de qualquer natureza, com o HUF, a Ebserh ou com
+
+8.6.
+Não é permitido acumular esta bolsa com bolsas de outros Programas do CNPq ou de quaisquer agências nacionais, estrangeiras ou
+internacionais de fomento ao ensino e à pesquisa ou congêneres.
+8.7.
+Não é considerada acúmulo a manutenção simultânea de bolsa de iniciação tecnológica com bolsas concedidas por Instituição Federal de
+Ensino Superior (IFES) ou pelo Ministério da Educação (MEC), quando estas possuírem objetivos assistenciais, de manutenção ou de permanência, e com
+finalidades distintas de iniciação tecnológica.
+9.
+
+DOS REQUISITOS E COMPROMISSOS DO(A) ORIENTADOR(A):
+
+9.1.
+
+O(A) orientador(a) deve atender os requisitos e assumir os compromissos previstos a seguir:
+
+9.1.1.
+
+Ter o título de mestre ou doutor(a), reconhecido pelo Ministério da Educação (MEC) conforme RN 017/2006 do CNPq.
+
+9.1.2.
+
+Ter vínculo formal com o HUF ou com a IFES ao qual o HUF está vinculado.
+
+9.1.3.
+Manter vínculo ativo com o Hospital ou a Universidade onde o projeto foi submetido durante todo o período de vigência da bolsa, sem
+afastamentos, ainda que parciais.
+9.1.4.
+Apresentar Declaração de Conflito de Interesses (ANEXO V) assinado pelo(a) orientador(a), se aplicável, nos casos de situações que podem
+configurar conflito de interesses (art. 5º, Lei nº 12.813/13), como nos casos em que: a) O interesse privado pode influenciar de forma indevida o
+desempenho de sua função ou comprometer o interesse coletivo (inciso I, art. 3º, Lei nº 12.813/13), b) Divulgação de informação privilegiada (inciso I,
+art. 5º e inciso I, art. 6º), c) Prestação de serviço ou relação de negócio com quem tem interesse em decisão (inciso II, art. 5º); d) Exercício de atividade
+incompatível com as atribuições da função, do cargo ou emprego (inciso III, art. 5º); e) Representação de interesses privados (inciso IV, art. 5º); f)
+Benefício indevido a pessoa jurídica de que participe o agente ou familiar próximo (inciso V, art. 5º); g) Prestação de serviços a empresa cuja atividade
+seja controlada, fiscalizada ou regulada pelo ente ao qual o agente está vinculado (inciso VII, art. 5º). Ter condições para orientar o(a) aluno(a) em todas
+as fases do trabalho científico, incluindo a elaboração de relatórios e material para apresentação dos resultados em congressos, seminários etc. Anexar o
+parecer do CEP no sistema Rede Pesquisa, em até 7 dias após a aprovação, caso o projeto envolva seres humanos, observadas as normas aplicáveis.
+9.1.5.
+divulgação.
+
+Utilizar a identidade visual da Ebserh e do CNPq nos trabalhos apresentados em eventos de qualquer natureza e em qualquer meio de
+
+9.1.6.
+Citar a sigla do HUF/Ebserh como instituição sede de desenvolvimento do projeto nas publicações pertinentes, eventos, seminários e
+periódicos científicos, conforme disposto na seção DAS PUBLICAÇÕES deste edital.
+9.1.7.
+Informar ao(à) coordenador(a) local do programa no HUF, os projetos com potencial para proteção de propriedade intelectual (registro de
+software, registro de marca, depósito de pedido de patente ou similar), tão logo possível.
+9.1.8.
+
+Responsabilizar-se pelo cumprimento dos prazos referentes aos relatórios do(s) bolsista(s).
+
+9.1.9.
+
+Instruir o(a) bolsista no cumprimento do plano de trabalho, da carga horária e da execução do projeto.
+
+9.1.10.
+Incluir o nome do(a) bolsista vinculado(a) ao projeto nas publicações dos trabalhos em congressos, seminários e revistas e quaisquer
+outros produtos técnico-científicos.
+9.1.11.
+Efetuar e notificar o(a) coordenador(a) do programa no HUF, quando pertinente, eventuais substituições de bolsistas e cancelamentos de
+projetos mediante justificativa, conforme disposto nas seções “DA SUBSTITUIÇÃO DE BOLSISTA” e “DO CANCELAMENTO DE PROJETO”.
+
+9.1.12.
+Zelar pela conformidade com os princípios éticos e normativos da Rede Ebserh, com as boas práticas em pesquisa e desenvolvimento
+tecnológico, e informar ao(à) coordenador(a) do programa eventuais desvios de conformidade ou conflito de interesses a qualquer momento.
+9.1.13.
+
+Manter atualizado o Sistema Rede Pesquisa durante todo o período de execução do projeto, conforme orientações enviadas pela GEP.
+
+9.1.14.
+Notificar o(a) coordenador(a) do programa no HUF em caso de envolvimento com outra(s) instituição(ões) e/ou empresa(s) privada(s)
+(incluindo startups), para que sejam providenciados os devidos instrumentos jurídicos a serem celebrados entre os partícipes.
+9.1.15.
+Em caso de afastamento ou rompimento do vínculo institucional, o(a) orientador(a) deverá comunicar formalmente o coordenador do
+programa, em até 7 dias após a ocorrência, a fim de viabilizar a designação de um(a) novo(a) orientador(a), conforme disposto na seção “DA
+SUBSTITUIÇÃO DO(A) ORIENTADOR(A)”.
+9.1.16.
+no projeto.
+
+Não ser cônjuge, companheiro ou familiar, consanguíneo ou afim, até o terceiro grau, do(a) aluno(a) bolsista ou voluntário(a) indicado(a)
+
+9.1.17.
+
+Cumprir todas as obrigações previstas neste edital, inclusive no que se refere à apresentação de documentos exigidos.
+
+10.
+
+DOS REQUISITOS E COMPROMISSOS DO(A) ALUNO(A) BOLSISTA
+
+10.1.
+
+O(A) aluno(a) bolsista deve atender os requisitos e assumir os compromissos previstos a seguir:
+
+10.1.1.
+
+Estar regularmente matriculado(a), durante toda a vigência da bolsa, em curso de graduação na universidade à qual o HUF está vinculado.
+
+10.1.1.1.
+Em caso de interrupção do vínculo regular como aluno(a) antes do final da vigência da bolsa, é dever do(a) bolsista comunicar
+imediatamente à coordenação do programa para que seja realizado o cancelamento da bolsa.
+10.1.1.2.
+Para fins deste edital, considera-se como data de término da graduação a data de egresso registrada na coordenação do curso. Datas
+cerimoniais, como colação de grau, não caracterizam vínculo acadêmico vigente.
+10.1.2.
+voluntário.
+
+Não ter vínculo empregatício ou outra atividade remunerada que comprometa sua dedicação ao projeto, exceto se atuar como estudante
+
+10.1.3.
+
+Ter disponibilidade para dedicar-se às atividades de desenvolvimento tecnológico.
+
+10.1.4.
+Zelar pela conformidade com os princípios éticos e normativos da Rede Ebserh, com as boas práticas em pesquisa e desenvolvimento
+tecnológico.
+10.1.5.
+
+Não ser cônjuge, companheiro ou familiar, consanguíneo ou afim, até o terceiro grau, do(a) orientador(a).
+
+10.1.6.
+
+Ser selecionado(a) e indicado(a) pelo(a) orientador(a).
+
+10.1.7.
+
+Apresentar bom desempenho acadêmico.
+
+10.1.8.
+Referenciar à sua condição de bolsista (ou voluntário) do PIT/Sigla HUF/Ebserh nos trabalhos apresentados em eventos de qualquer
+natureza e meio de comunicação, de forma obrigatória, conforme orientações da seção DAS PUBLICAÇÕES deste edital.
+10.1.9.
+
+Aceitar o Termo de Compromisso do CNPq (enviado por e-mail).
+
+10.1.10.
+
+Entregar os relatórios parcial e final de atividades, conforme prazo estipulado no cronograma deste edital (ANEXO II).
+
+10.1.11.
+Devolver ao órgão de fomento, em valores atualizados, a(s) bolsa(s) recebida(s) indevidamente caso os requisitos e compromissos
+estabelecidos neste edital não sejam cumpridos.
+10.1.12.
+
+Cumprir todas as obrigações previstas neste edital, inclusive no que se refere à apresentação de documentos exigidos.
+
+11.
+
+DOS REQUISITOS DO PROJETO
+
+11.1.
+
+O projeto deve atender os requisitos previstos a seguir:
+
+11.1.1.
+
+Ser desenvolvido no âmbito dos HUFs da Rede Ebserh.
+
+11.1.2.
+
+Apresentar relevância técnico/científica/inovadora (inovação) e viabilidade de execução.
+
+11.1.3.
+Ser compatível com o nível de formação acadêmica e os conhecimentos esperados de estudantes de graduação e possuir natureza de
+iniciação científica/tecnológica.
+11.1.4.
+
+Ser exequível no prazo estipulado para a duração da bolsa.
+
+11.1.5.
+
+Apresentar viabilidade técnica e independência econômica para sua realização (infraestrutura, pessoal e financeiro).
+
+11.1.6.
+
+Apresentar cronograma e plano de trabalho apropriado para o(a) aluno(a), conforme ANEXO III.
+
+11.1.7.
+
+Ter, no máximo, um(a) bolsista vinculado(a) ao desenvolvimento do projeto.
+
+11.1.8.
+
+Ser cadastrado pelo(a) orientador(a) no “Sistema Rede Pesquisa - Ebserh” (http://sig.ebserh.gov.br/redepesquisa/).
+
+11.1.9.
+Ter a Carta de Anuência do HUF para execução do projeto (observar os prazos de anuência do seu HUF, pois essa Carta deverá ser
+entregue junto com os demais documentos, em caso de aprovação). A carta de anuência do HUF também é um documento obrigatório para submissão
+do Projeto ao CEP, quando aplicável.
+11.1.10.
+O Parecer consubstanciado do CEP deverá ser apresentado obrigatoriamente na etapa de “entrega de documentação dos alunos”,
+conforme cronograma (ANEXO II), tendo em vista que é indispensável para o início das atividades do projeto. Este documento é obrigatório quando o
+
+projeto envolver experimentos, experiências e/ou testes em seres humanos, conforme definido pela Lei 14.874/24 e suas atualizações, no caso de
+envolvimento indireto e direto com seres humanos, de acordo com a Resolução CNS 466/2012 e a Resolução CNS 510/2016, que regulamentam
+pesquisas em ciências da saúde e em ciências humanas e sociais, nos casos cabíveis.
+11.2.
+Os casos omissos serão analisados pelo Comitê Institucional do Programa PIT/Ebserh do HUF responsável, em conjunto com a
+Administração Central da Ebserh.
+12.
+
+DO COMITÊ INSTITUCIONAL
+
+12.1.
+
+A seleção das propostas será realizada pelo Comitê Institucional, indicado pelo(a) coordenador(a) do programa PIT/Ebserh do HUF.
+
+12.2.
+doutor.
+
+O Comitê Institucional de cada HUF será constituído por no mínimo 3 (três) membros, sendo em sua maioria pesquisadores com título de
+
+12.3.
+
+A relação dos pesquisadores que compõem o Comitê Institucional será disponibilizada na página do HUF.
+
+12.4.
+
+Cada Comitê analisará e julgará as propostas conforme previsto neste Edital.
+
+12.5.
+
+É vedado a qualquer membro do Comitê de Análise Institucional:
+
+12.5.1.
+Julgar propostas de projetos nos quais esteja participando da equipe seu cônjuge, companheiro ou parente, consanguíneo ou afim, em
+linha reta ou colateral, até o terceiro grau;
+12.5.2.
+Julgar propostas em que esteja litigando judicial ou administrativamente com qualquer membro da equipe do projeto ou seus respectivos
+cônjuges ou companheiros;
+12.5.3.
+
+Julgar propostas em que haja qualquer outro conflito de interesse; e/ou
+
+12.5.4.
+
+Divulgar, antes do anúncio oficial, os resultados de qualquer julgamento.
+
+13.
+
+DA SELEÇÃO DAS PROPOSTAS
+
+13.1.
+
+Os critérios e suas pontuações para classificação das propostas são apresentados na tabela a seguir:
+Avaliação do(a) Orientador(a)
+
+Item Domínios
+Titulação do(a)
+orientador(a)
+
+1
+
+2
+
+Cargos/função
+
+Critérios
+
+Pontuação
+por item
+
+Doutorado
+
+­1,5
+
+Mestrado Acadêmico ou Profissional
+
+­1,0
+
+Coordenador de projetos de pesquisa ou desenvolvimento
+tecnológico / inovação aprovados
+
+0,5
+
+1,0
+
+Preceptor
+
+­0,5
+
+­0,5
+
+Participação de comissões permanentes do HUF, tais como:
+Comissão Central de Farmácia e Terapêutica (CCFT); Núcleo de
+Avaliação de Tecnologias em Saúde (NATS); Comissão de
+Segurança do Paciente (COSEP); Comissão de Padronização de ­0,5 por
+Produtos para Saúde (CPPS); Comissão de Controle de Infecção comissão
+Hospitalar (CCIH); Comissão Interna de Prevenção de Acidente
+(CIPA); dentre outras.
+
+Pontuação
+máxima
+
+Observações
+
+1,5
+
+Pontuação não cumulativa. Será considerada a maior
+titulação.
+
+Os comprovantes desse item deverão ser enviados no
+momento da inscrição, juntamente com o Currículo Lattes,
+em arquivo único pdf.
+1,0
+
+(nos últimos 5 anos).
+
+3
+
+4
+
+Orientações
+
+Produção
+científica/
+tecnológica
+comprovada
+
+Projetos de Iniciação Tecnológica
+
+0,5 por
+projeto
+
+1,0
+
+Projetos de Iniciação Científica
+
+0,5 por
+projeto
+
+1,0
+
+Trabalho de Conclusão da Residência (TCR); Mestrado
+Profissional; Projeto de Desenvolvimento Tecnológico
+
+0,5 por
+projeto
+
+1,0
+
+Resumos publicados em anais ou outras publicações (nos últimos 0,2 por
+5 anos).
+resumo
+
+1,0
+
+0,2 ponto por resumo (até máximo cinco) publicados em
+anais de congresso
+
+0,5 por
+artigo
+
+1,0
+
+-
+
+Pedido de concessão de patente ou Patente concedida; Registros
+0,5 por
+de softwares; Tecnologia transferida; Produtos; Processos;
+pedido
+Aplicações ou serviços inovadores desenvolvidos, etc.
+
+1,0
+
+Subtotal
+
+10,0
+
+Artigos indexados (nos últimos 5 anos).
+
+-
+
+Serão considerados projetos concluídos e em andamento
+
+0,5 ponto: 1 pedido ou concessão/registro;
+1,0 ponto: 2 ou mais pedidos ou concessões/registros
+
+-
+
+Avaliação do Mérito do Projeto
+
+5
+
+Domínios
+
+Critérios
+
+Pontuação
+por item
+
+Pontuação
+
+Observação
+
+Relevância
+
+Relevância social, científica e/ou tecnológica em saúde.
+
+-
+
+0 - 20
+
+Pontuação máxima (20):
+0-5 pontos: Se o projeto leva em consideração a formação de
+recursos humanos;
+0-5 pontos: transferência de resultados para sociedade;
+
+Avaliação do(a) Orientador(a)
+0-10 pontos: potencial impacto do conhecimento gerado nas
+pesquisas, por meio de produção e divulgação técnicocientífica OU potencial impacto do desenvolvimento de
+soluções, tecnologias ou processos inovadores.
+Total = 20 pontos
+
+0 ponto: Proposta fora do escopo e/ou pouca ou sem
+informação sobre aplicabilidade para o SUS;
+5 pontos: Proposta com baixa adequação, apresentando
+fragilidades e/ou ausência em relação a mais de um dos itens:
+1. Atendimento ao contexto do SUS; 2. Projeto aplicado às
+práticas por profissionais e gestores e benefícios aos usuários;
+3. Facilidade na utilização de resultados da pesquisa nos
+serviços, programas e/ou políticas públicas.
+6
+
+Pertinência
+
+Adequação da proposta em relação ao contexto do SUS; às
+práticas de profissionais, gestores e usuários; aplicabilidade dos
+resultados nos serviços, programas e/ou políticas públicas
+
+0 - 15
+
+10 pontos: Proposta com média adequação, apresentando
+fragilidades e/ou ausência em relação a um dos itens: 1.
+Atendimento ao contexto do SUS; 2. Projeto aplicado às
+práticas por profissionais e gestores e benefícios aos usuários;
+3. Facilidade na utilização de resultados da pesquisa nos
+serviços, programas e/ou políticas públicas.
+15 pontos: Proposta adequada em relação a: 1. Atendimento
+ao contexto do SUS; 2. Projeto aplicado às práticas de
+profissionais e gestores, e/ou benefício aos usuários; 3.
+Facilidade na utilização de resultados da pesquisa nos
+serviços, programas e/ou políticas públicas.
+
+0 pontos: não atende aos critérios de viabilidade.
+
+7
+
+Viabilidade
+
+Adequação e viabilidade do Plano de trabalho do aluno(a):
+exequível (viabilidade técnica), adequado para graduação
+(viabilidade acadêmica), cronograma compatível com a duração
+do Programa (viabilidade temporal) e dispõe de recursos
+econômicos e/ou financeiros necessários para sua execução
+(viabilidade econômica).
+
+5 pontos: atende apenas 1 dos critérios de viabilidade.
+
+-
+
+0 - 20
+
+10 pontos: atende apenas 2 dos critérios de viabilidade.
+15 pontos: atende apenas 3 dos critérios de viabilidade;
+20 pontos: atende todos os 4 critérios de viabilidade.
+
+Serão avaliados (0-20):
+
+0-5 pontos: clareza e objetividade do texto;
+
+Formatação (ANEXO III).
+
+8
+
+-
+
+0 - 20
+
+Estruturação
+
+0-10 pontos: projeto organizado contendo os tópicos: título,
+resumo, introdução, objetivos, justificativa, revisão da
+literatura, estado da técnica, metodologia, resultados
+esperados, cronograma;
+
+0-5 pontos: referências bibliográficas atualizadas e relevantes
+para a proposta apresentada.
+
+0 ponto: Não apresenta clareza e coerência;;
+
+Clareza e coerência.
+A clareza garante que a descrição dos objetivos, da metolodogia
+e dos resultados propostos sejam compreendidos facilmente.
+A coerência assegura que os objetivos propostos e a metodologia
+a ser utilizada para execução do projeto são logicamente
+conectados, e contribuem para o alcance dos resultados
+propostos
+
+Subtotal
+
+5 pontos: Não apresenta clareza ou não apresenta coerência
+entre objetivos e metodologia;
+
+-
+
+0 - 15
+
+10 pontos: Apresenta clareza. Apresenta coerência entre
+objetivos e metodologia, mas apresenta incoerência ou
+dúvidas quanto ao atingimento dos resultados esperados;
+15 pontos: Apresenta clareza e coerência entre objetivos,
+metodologia e resultados esperados.
+
+0 - 90
+TOTAL
+
+­0 - 100
+
+13.2.
+Os projetos avaliados terão sua pontuação registrada em documento assinada por todos os membros do Comitê Institucional, contendo a
+lista dos projetos avaliados, em ordem classificatória, com a pontuação correspondente.
+13.3.
+
+Os projetos que obtiverem uma pontuação total inferior a 60 serão desclassificados.
+
+13.4.
+
+Caso haja empate, serão consideradas as maiores notas para os seguintes critérios, na ordem descrita a seguir:
+
+IPertinência (adequação da proposta em relação ao contexto do SUS; às práticas de profissionais, gestores e usuários;
+aplicabilidade dos resultados nos serviços, programas e/ou políticas públicas);
+II -
+
+Relevância (Relevância social, científica e/ou tecnológica em saúde).
+
+III Viabilidade (Adequação e viabilidade do Plano de trabalho do aluno(a): exequível (viabilidade técnica), adequado para
+graduação (viabilidade acadêmica), cronograma compatível com a duração do Programa (viabilidade temporal) e dispõe de recursos
+econômicos e/ou financeiros necessários para sua execução (viabilidade econômica).
+13.5.
+
+As propostas serão eliminadas, em caso de:
+
+13.5.1.
+
+Descumprimento do edital;
+
+13.5.2.
+
+Pendências documentais, por parte do orientador e/ou do aluno;
+
+13.5.3.
+
+Ausência de documentos exigidos;
+
+13.5.4.
+
+Inadequação ou não aderência do Projeto aos objetivos do Programa de Iniciação Tecnológica/Científica;
+
+13.5.5.
+
+Planos de trabalhos iguais para diferentes candidatos, com eliminação de todos os candidatos envolvidos.
+
+14.
+
+DOS RESULTADOS E DOS RECURSOS
+
+14.1.
+Os resultados referentes à homologação das inscrições, à avaliação da comprovação da condição para concorrer às vagas destinadas às
+ações afirmativas e à avaliação preliminar dos projetos serão divulgados na página do PIT/Ebserh 2025, disponível em: https://www.gov.br/ebserh/ptbr/ensino-e-pesquisa/programas-de-iniciacao-cientifica-e-tecnologica/programa-de-iniciacao-tecnologica-pit, de acordo com o Cronograma deste edital
+(ANEXO II).
+14.2.
+É de inteira responsabilidade do(a) candidato(a) acompanhar a divulgação dos resultados, de acordo com o Cronograma presente neste
+edital (ANEXO II).
+14.3.
+
+Caberá recurso em face dos resultados das seguintes etapas:
+I-
+
+Homologação das inscrições;
+
+II -
+
+Avaliação da comprovação da condição para concorrer às vagas destinadas às ações afirmativas;
+
+III -
+
+Avaliação preliminar dos projetos.
+
+14.4.
+Os recursos deverão ser interpostos de acordo com as instruções divulgadas pelo HUF ao qual o(a) candidato(a) se inscreveu, por meio do
+link correspondente disponibilizado na página do PIT/Ebserh 2025, no link https://www.gov.br/ebserh/pt-br/ensino-e-pesquisa/programas-de-iniciacaocientifica-e-tecnologica/programa-de-iniciacao-tecnologica-pit, respeitando os prazos indicados no Cronograma (ANEXO II).
+15.
+
+DAS CONVOCAÇÕES
+
+15.1.
+Após a divulgação do resultado preliminar da avaliação dos projetos, os(as) candidatos(as) pré-selecionados(as) às vagas destinadas às
+ações afirmativas deverão encaminhar à coordenação do programa do respectivo HUF documento comprobatório de que cursaram integralmente o
+ensino médio em escola pública e ingressaram no curso de graduação atual por meio do sistema de ações afirmativas, nos termos da Lei n.º
+12.711/2012.
+15.1.1.
+O documento mencionado no item anterior deverá ser enviado no prazo previsto no cronograma deste edital (ANEXO II), por meio do link
+do HUF correspondente disponibilizado na página do PIT/Ebserh 2025 https://www.gov.br/ebserh/pt-br/ensino-e-pesquisa/programas-de-iniciacaocientifica-e-tecnologica/programa-de-iniciacao-tecnologica-pit.
+15.2.
+A convocação dos(as) candidatos(as) pré-selecionados(as) não garante, por si só, a concessão da bolsa ou a seleção do projeto no
+resultado final, uma vez que ainda poderão ser interpostos recursos quanto à avaliação dos projetos, bem como será realizada análise das condições
+para utilização das vagas destinadas às ações afirmativas, etapa também passível de recurso.
+15.3.
+Após a divulgação do resultado final, os alunos selecionados deverão enviar os seguintes documentos à coordenadoria do programa do
+seu respectivo HUF, no prazo previsto no cronograma deste edital (ANEXO II), por meio do link do HUF correspondente disponibilizado na página do
+PIT/Ebserh
+2025
+https://www.gov.br/ebserh/pt-br/ensino-e-pesquisa/programas-de-iniciacao-cientifica-e-tecnologica/programa-de-iniciacaotecnologica-pit.
+a) Documento oficial com foto*
+*Nota: serão considerados documentos oficiais com foto; tais como a Carteira de Identidade Nacional (CIN), Carteira de identidade (RG),
+Carteira Nacional de Habilitação (CNH), Certificado de reservista, Identidade social (para pessoas trans e travestis), e-Título ou Passaporte.
+b) Comprovante de matrícula na Universidade emitido nos últimos 3 meses;
+c) Carta de anuência do HUF quanto à execução do projeto nos casos em que a submissão ao CEP não seja necessária;
+d) Nos casos de projetos envolvendo seres humanos, parecer consubstanciado de aprovação do CEP, observadas as normas aplicáveis;
+e) Carta de anuência do(a) orientador(a), com assinaturas do(a) coordenador(a) do projeto ou pesquisador(a) principal, se aplicável;
+f) Declaração de Conflito de Interesses (ANEXO V) assinado, se aplicável;
+g) Termo de Compromisso para Utilização de Dados, Confidencialidade e Sigilo (ANEXO VI), se aplicável, assinado pelo(a) orientador(a)
+responsável pelo projeto e pelos demais integrantes da equipe que tenham acesso aos dados. Este termo é obrigatório nos projetos que utilizam e/ou
+coletam qualquer tipo de informação em banco de dados de instituições, prontuários médicos ou odontológicos, entre outros, conforme a Lei Geral de
+
+Proteção de Dados nº 13.709/2018 (LGPD), a Política de Proteção de Dados Pessoais da Ebserh e Manual de Diretrizes e Boas Práticas para Gestão da
+Documentação Clínica na Rede Ebserh (2021).
+h) Declaração de Participação em Projeto com a descrição e o tipo de contribuição dos envolvidos (ANEXO VII), caso o projeto conte com
+apoio ou parceria de outra instituição além da Universidade e da Ebserh, e caso o projeto conte com qualquer tipo de apoio financeiro ou fornecimento
+de materiais para execução do projeto.
+i) Declaração de não acúmulo de bolsas (ANEXO VIII) assinada;
+j) Termo de compromisso e responsabilidade do(a) bolsista (ANEXO IX) com os dados bancários da conta corrente no Banco do Brasil
+assinada ou Termo de compromisso e responsabilidade do(a) voluntário(a) (ANEXO X), conforme o caso;
+k) Termo de Autorização para publicação da produção científica e tecnológica (ANEXO XI) assinado;
+l) Termo de Autorização de uso de imagem e voz (ANEXO XII) assinado.
+16.
+
+DA SUBSTITUIÇÃO DE BOLSISTA
+
+16.1.
+A substituição do(a) bolsista é permitida, preferencialmente, até o período de 90 dias que antecede o encerramento do Programa e
+deverá ser solicitada pelo(a) coordenador(a) do programa PIT/Ebserh, na plataforma Carlos Chagas.
+16.2.
+Em caso da necessidade de substituição do bolsista por qualquer motivo (por exemplo, desempenho insuficiente, desistência, conclusão
+do curso de graduação, falecimento, a pedido do bolsista etc.), o(a) orientador(a) deverá comunicar por escrito o respectivo motivo para a Coordenação
+do Programa no HUF.
+16.3.
+Poderá ser considerado apenas um pedido de substituição por projeto, exceto nos casos de licença saúde, licença maternidade ou de
+falecimento, respeitado, preferencialmente, o limite mínimo de 90 dias que antecede o encerramento do Programa.
+16.4.
+Em caso de substituição de bolsista selecionado(a) para vaga destinada a ações afirmativas, o(a) orientador(a) deverá substituir por aluno
+que pertença à mesma categoria. Na ausência de candidatos da referida categoria, o orientador deverá substituir por aluno de outra categoria, na
+seguinte ordem - RF, PNP, PCD/PI/PQ.
+16.4.1.
+Caso não haja alunos que fazem parte das categorias destinadas às ações afirmativas, será substituído por aluno(a) pertencente à ampla
+concorrência.
+16.5.
+O(A) novo(a) bolsista assumirá a vaga nos termos do edital, devendo estar ciente das condições de ingresso e da necessidade de execução
+do projeto no prazo restante, mediante a apresentação do plano de trabalho readequado à Coordenação local do Programa.
+16.6.
+
+O(A) bolsista desligado(a) não poderá retornar ao programa na mesma vigência.
+
+16.7.
+A solicitação da substituição do(a) bolsista feita pelo(a) Coordenador(a) local do Programa na Plataforma Carlos Chagas deverá ocorrer até
+o dia 10 do mês correspondente ao seu desligamento, ou até o último dia útil anterior a essa data.
+16.8.
+Caso o desligamento do(a) bolsista ocorra no mês de dezembro, o mesmo deverá ser realizado na Plataforma Carlos Chagas até o dia 7 ou
+até o último dia útil anterior a essa data.
+16.9.
+O(A) bolsista desligado do programa deverá apresentar, obrigatoriamente, relatório contendo as atividades desenvolvidas ao(à)
+coordenador(a) do programa no prazo de até 15 dias após o cancelamento da bolsa.
+16.10.
+O(a) aluno(a) substituto(a) fará jus apenas às bolsas correspondentes ao período restante de vigência do projeto, sendo vedado o
+recebimento retroativo.
+17.
+
+DO CANCELAMENTO DE PROJETO
+
+17.1.
+Caso o bolsista, orientador ou projeto estejam em desacordo com as normas deste edital, o projeto será cancelado, o(a) bolsista perderá o
+direito à bolsa imediatamente, e a Coordenação do Programa convocará o próximo projeto classificado, respeitadas os critérios deste Edital.
+17.2.
+O(A) bolsista desligado(a) do programa deverá apresentar, obrigatoriamente, relatório contendo as atividades desenvolvidas ao(à)
+coordenador(a) do programa no prazo de até 15 dias após o cancelamento do projeto.
+17.2.1.
+Caso o relatório parcial não seja entregue, o(a) orientador(a) e o(a) bolsista permanecerão impedidos de participar do Programa até a
+regularização da pendência.
+17.3.
+Em decorrência do cancelamento, o(a) novo aluno(a) fará jus apenas às bolsas correspondentes ao período restante de vigência do
+programa, sendo vedado o recebimento retroativo. O total de bolsas a serem concedidas será equivalente à diferença entre as 12 (doze) parcelas
+previstas e aquelas já pagas ao(s) bolsista(s) anterior.
+18.
+
+DA SUBSTITUIÇÃO DO(A) ORIENTADOR(A)
+
+18.1.
+Fica assegurada a continuidade do(a) bolsista no programa em caso de afastamento temporário ou definitivo do(a) orientador(a) por
+motivos de licença saúde, licença maternidade ou rompimento de vínculo institucional, desde que seja indicado(a) orientador(a) substituto(a).
+18.1.1.
+O(A) orientador(a) principal afetado(a) deverá, antes de seu afastamento, indicar à Coordenação do Programa, por escrito, um(a)
+substituto(a) que atenda aos requisitos e critérios deste edital.
+18.1.2.
+O(A) orientador(a) substituto(a) deverá garantir a continuidade das atividades do projeto e orientação do(a) bolsista, estando ciente das
+condições deste edital.
+19.
+
+DAS PUBLICAÇÕES
+
+19.1.
+Todos os trabalhos que tenham sido desenvolvidos nos HUF integrantes da Ebserh, produzidos ou publicados nas mais diversas bases de
+dados ou eventos científicos (independente da mídia), e qualquer outro meio de divulgação, promoção de eventos ou de projetos de pesquisa e/ou
+desenvolvimento tecnológico, de forma integral ou parcial, e/ou que possuam dados coletados nos seus mais diversos setores, apoiados pelo presente
+edital deverão referenciar, obrigatoriamente, o HUF, a Ebserh e o CNPq de maneira padronizada. Indica-se a seguinte expressão a ser utilizada:
+19.1.1.
+Publicações em língua nativa: Sigla do HUF-IFES/Empresa Brasileira de Serviços Hospitalares ou sua abreviação Sigla do HUFIFES/EBSERH. A exemplo: HC-UFMG/Empresa Brasileira de Serviços Hospitalares ou HC-UFMG/EBSERH;
+19.1.2.
+Publicações em língua espanhola: Sigla do HUF-IFES/Empresa Brasileña de Servicios Hospitalarios (EBSERH), Brasil ou sua abreviação
+Sigla do HUF-IFES/EBSERH, Brasil. A exemplo: HE-UFPEL/Empresa Brasileña de Servicios Hospitalarios (EBSERH), Brasil ou HE-UFPEL/EBSERH, Brasil;
+19.1.3.
+Publicações em língua inglesa ou demais: Sigla do HUF-IFES/Brazilian Hospital Services Company (EBSERH), Brazil ou sua abreviação Sigla
+do HUF-IFES/EBSERH, Brazil. A exemplo: HUB-UNB/Brazilian Hospital Services Company (EBSERH), Brazil ou HUB-UNB/EBSERH, Brazil.
+19.2.
+A referência ao CNPq deverá ser feita como “Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)” para publicações em
+língua portuguesa , “National Council for Scientific and Technological Development (CNPq)” quando se tratar de publicações em língua inglesa, e
+“Consejo Nacional de Desarrollo Científico y Tecnológico (CNPq)” para a língua espanhola.
+19.3.
+Os resumos, resumos expandidos, resultados ou parte dos trabalhos dos participantes desenvolvidos no âmbito do PIT/Ebserh, poderão
+ser publicamente disponibilizados, desde que respeitadas as regras contidas neste edital.
+19.4.
+A exposição antecipada de resultados parciais ou totais pode comprometer a proteção da propriedade intelectual, que requer
+originalidade no momento do depósito. Para assegurar o sucesso no registro da invenção, o pesquisador(a) deverá consultar à GEP, antes de qualquer
+divulgação, para receber orientações.
+19.5.
+Ao final do período de concessão da bolsa, os(as) bolsistas deverão apresentar os resultados da pesquisa ou do projeto desenvolvido em
+evento organizado pelo HUF correspondente e/ou pela Administração Central, conforme os cuidados necessários caso sejam gerados
+produtos/inovações passíveis de proteção intelectual.
+19.6.
+
+Todos os produtos gerados (artigos, resumos etc.) deverão estar incluídos nos relatórios finais e anexados ao Sistema Rede Pesquisa.
+
+20.
+
+DO TRATAMENTO DE DADOS PESSOAIS
+
+20.1.
+Os dados pessoais solicitados no âmbito deste edital serão utilizados em conformidade com as regras da Lei n.º 13.709/2018 - Lei Geral de
+Proteção de Dados Pessoais (LGPD), com a finalidade de identificação do(a) candidato(a) e orientador(a) e de comprovação do atendimento dos
+requisitos do edital.
+20.2.
+Os dados coletados serão tratados, a partir das premissas da LGPD, em especial, em atendimento aos princípios da finalidade, adequação,
+necessidade, livre acesso, qualidade de dados, transparência, segurança, prevenção e não discriminação e responsabilização e prestação de contas, de
+que trata o artigo 6º da LGPD.
+20.3.
+Apenas o nome completo do(a) candidato(a) e do(a) orientador(a), número da inscrição, (se houver), o título do projeto e se concorrem às
+vagas reservadas às ações afirmativas, serão divulgados na página do PIT, em atendimento ao princípio da transparência no processo de seleção.
+20.4.
+Todas as informações enviadas pelo(a) candidato(a) e pelo(a) orientador(a) poderão ser disponibilizadas para acesso interno pela
+Administração Central da Ebserh e pelo respectivo HUF.
+20.5.
+Ao se inscrever, o(a) candidato(a) e o(a) orientador(a) concordam com os termos que constam neste edital, bem como declaram que
+aceitam que os seus dados pessoais, sensíveis ou não, sejam tratados e processados de forma a possibilitar a efetiva execução do processo seletivo, com
+a aplicação dos critérios de avaliação e seleção, autorizando expressamente a divulgação de seus nomes, número da inscrição, (se houver), títulos dos
+projetos e notas, em observância aos princípios da publicidade e da transparência que regem a Administração Pública e nos termos da LGPD.
+20.5.1.
+Não caberão reclamações posteriores quanto à possibilidade de divulgação dos dados, ficando cientes também os(as) candidatos(as) de
+que possivelmente tais informações poderão ser encontradas na rede mundial de computadores, por meio dos mecanismos de busca atualmente
+existentes.
+21.
+
+DA PROPRIEDADE INTELECTUAL
+
+21.1.
+A partir da identificação de projeto com potencial inédito ou inovador que possa originar propriedade intelectual, seja de direito autoral
+(direito de autor, direitos conexos ou programa de computador/software) ou de propriedade industrial (patentes, desenhos industriais, marcas,
+indicações geográficas e repressão da concorrência desleal), o(a) orientador(a) deverá comunicar o fato à GEP do HUF correspondente, a qual adotará as
+providências cabíveis para a proteção da propriedade intelectual, incluindo o envio da documentação para as providências cabíveis da proteção
+intelectual ao Serviço de Gestão da Inovação Tecnológica em Saúde (SGITS/CGPITS/DEPI).
+21.1.1.
+Para a proteção intelectual decorrente de projetos apoiados por este edital, deverão ser observadas as diretrizes da DEPI, inclusive quanto
+aos processos de registro e eventuais ganhos econômicos que possam ser gerados de sua exploração.
+21.2.
+Devem ser observadas as normas pertinentes, em especial: Lei n.º 13.243/2016 (Marco Legal da Ciência, Tecnologia e Inovação); Lei n.º
+10.973/2004 (Lei da Inovação); Lei n.º 9.279/1996 (Lei da Propriedade Industrial); Lei n.º 9.609/1998; Lei n.º 9610/1998; Decreto n.º 9.283/2018;
+Regulamento de Pessoal da Ebserh; e Portaria CNPq n.º 502, de 12 de maio de 2021.
+21.3.
+A titularidade da propriedade intelectual desenvolvida no âmbito do PIT/Ebserh pertencerá à Ebserh e será compartilhada com a
+instituição de vínculo do(a) aluno(a) bolsista/orientador(a), bem como outras pessoas físicas ou jurídicas envolvidas, assegurando-se aos criadores o
+reconhecimento da autoria.
+21.3.1.
+É assegurada aos criadores a participação nos ganhos econômicos em eventuais contratos de transferência de tecnologia e de
+licenciamento para outorga de direito de uso ou de exploração de criação protegida, nos termos da legislação aplicável.
+21.3.2.
+A participação nos ganhos econômicos será objeto de instrumento específico a ser celebrado entre as instituições e os(as) autores(as)
+envolvidos(as).
+
+22.
+
+DO ENCERRAMENTO E EMISSÃO DO CERTIFICADO OU DECLARAÇÃO
+
+22.1.
+É dever do(a) bolsista e do(a) orientador(a) a entrega do relatório final do projeto e do resumo a ser publicado nos Anais do PIT, conforme
+cronograma estabelecido neste Edital. O relatório final do projeto deverá ser anexado no “Sistema Rede Pesquisa - Ebserh”
+(http://sig.ebserh.gov.br/redepesquisa/).
+22.1.1.
+A ausência dessa entrega implicará em pendência para o(a) orientador(a) e para o(a) bolsista, que resultará na impossibilidade de
+participação em outros processos seletivos do PIT/PIC/Ebserh, enquanto a pendência não for sanada, além da obrigação do(a) bolsista de restituir os
+valores recebidos a título de bolsa.
+22.2.
+É dever do(a) bolsista a apresentação dos resultados do projeto na Jornada de Iniciação Científica e Tecnológica do HUF/Ebserh e em
+outros eventos de divulgação que venham a ser promovidos pelo HUF, pela Administração Central da Ebserh ou pela Universidade correspondente, salvo
+se o projeto envolver propriedade intelectual, situação em que deverá ser assegurada a proteção pertinente, conforme orientações neste edital.
+22.3.
+O certificado de participação no PIT/Ebserh/HUF será emitido pelo HUF somente após o cumprimento de todos os compromissos
+descritos neste edital.
+22.4.
+No caso de encerramento antecipado da participação no projeto (período inferior a 12 meses da duração do Programa), o(a) aluno(a)
+bolsista e o(a) orientador(a) farão jus à emissão do certificado, desde que o relatório final seja entregue antecipadamente, assegurando o devido
+reconhecimento das atividades realizadas.
+22.5.
+Nos termos da Lei nº 9.394/1996 (LDB), que incentiva a iniciação científica como parte do desenvolvimento da educação superior, e
+conforme as diretrizes da Resolução Normativa CNPq nº 017/2006, que permite a participação de estudantes voluntários em projetos de pesquisa, os
+alunos participantes de projetos de iniciação científica/tecnológica, sejam bolsistas ou voluntários, poderão receber certificado ou declaração emitida
+pelo HUF.
+22.6.
+A emissão do certificado de participação do bolsista será condicionada à comprovação da participação do(a) aluno(a) no projeto,
+mediante a entrega de relatório final validado pelo(a) orientador(a) e pelo setor responsável pela pesquisa na instituição.
+22.7.
+A emissão de declaração de participação como voluntário será condicionada à comprovação da participação do(a) aluno(a) no projeto,
+mediante a entrega de relatório final validado pelo(a) orientador(a) e pelo setor responsável pela pesquisa na instituição.
+23.
+
+DAS DISPOSIÇÕES FINAIS
+
+23.1.
+No caso de projeto submetido ao Programa de Iniciação Tecnológica que seja identificado o caráter científico condizente ao Programa de
+Iniciação Científica – PIC/Ebserh, a comissão poderá remanejar, dentro do próprio HUF, para que seja avaliado como candidato ao PIC Ebserh e viceversa.
+23.2.
+Em caso de vaga não preenchida por algum HUF, essa vaga será remanejada pela Administração Central da Ebserh entre os HUFs que
+obtiveram maior número de projetos que atenderam ao Edital.
+23.3.
+A ausência de qualquer informação e/ou documento exigido neste Edital resultará na desclassificação imediata do(a) candidato(a), e
+convocação do próximo candidato/projeto classificado.
+23.4.
+A Ebserh não se responsabiliza pelo não recebimento de inscrições, documentos ou recursos decorrentes de falhas técnicas, oscilações de
+conexão, indisponibilidades do sistema, problemas de compatibilidade de arquivos ou quaisquer outros fatores alheios à sua atuação. É de inteira
+responsabilidade do(a) candidato(a) acompanhar o envio e a confirmação de recebimento de sua documentação, dentro dos prazos estabelecidos neste
+edital.
+23.5.
+
+Os casos omissos serão analisados pelo Comitê Institucional de Iniciação Científica e Tecnológica da Administração Central.
+
+23.6.
+Qualquer cidadão é parte legítima para impugnar o presente Edital, mediante e-mail para o endereço eletrônico pit.sede@ebserh.gov.br
+em até 3 (três) dias úteis após sua publicação.
+
+BRASÍLIA, 13 de maio de 2025.
+(assinado eletronicamente)
+CRISTIANE CARVALHO SANTOS MELO
+Diretora de Ensino, Pesquisa e Inovação
+
+ANEXO I - DISTRIBUIÇÃO DAS VAGAS DO PROGRAMA DE INICIAÇÃO TECNOLÓGICA – PIT
+EDITAL Nº 02/2025
+PROGRAMA DE INICIAÇÃO TECNOLÓGICA DA EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
+N° DE VAGAS
+HOSPITAL
+
+*AC
+
+Escola Pública
+*RF
+
+*PNP
+
+**PcD/PI/PQ
+
+TOTAL
+
+Complexo do Hospital de Clínicas da
+UFPR (CHC-UFPR/Ebserh)
+
+7
+
+3
+
+3
+
+1
+
+14
+
+Complexo Hospitalar da UFC (CHUFC/Ebserh)
+
+7
+
+3
+
+3
+
+1
+
+14
+
+Complexo Hospitalar da
+Universidade Federal da UFPA (CHUUFPA/Ebserh)
+
+7
+
+3
+
+3
+
+1
+
+14
+
+Complexo Hospitalar da UFRJ/Ebserh
+(CH-UFRJ/Ebserh)
+
+11
+
+4
+
+4
+
+2
+
+21
+
+Hospital Universitário do
+Piaui/Ebserh (HU-UFPI/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário de Brasília/
+Ebserh (HUB-UnB/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário da
+UFMA/Ebserh (HU-UFMA/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital de Clínicas da UFTM/Ebserh
+(HC-UFTM/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário Cassiano
+Antônio de Morais/Ebserh (HucamUFES/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário Onofre
+Lopes/Ebserh (Huol-UFRN/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário Ana
+Bezerra/Ebserh (Huab-UFRN/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Maternidade Escola Januário
+Cicco/Ebserh (MEJC-UFRN/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário da Grande
+Dourados/Ebserh (HU-UFGD/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário da UFS/Ebserh
+(HU-UFS/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário Getúlio
+Vargas/Ebserh (HUGV-Ufam/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário Júlio
+Muller/Ebserh (HUJM-UFMT/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital das Clínicas da
+UFMG/Ebserh (HC-UFMG/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital das Clínicas da UFPE/Ebserh
+(HC-UFPE/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário Lauro
+Wanderley/Ebserh (HULWUFPB/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Univiversitário Maria
+Aparecida Pedrossian/Ebserh
+(Humap-UFMS/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário de Santa
+Maria/Ebserh (HUSM-UFSM/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário Professor
+Alberto Antunes/Ebserh (HUPAAUfal/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital de Ensino Dr. Washington
+Antônio de Barros/Ebserh
+(HUUnivasf/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário da
+UFSCar/Ebserh (HU-UFSCar/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Escola da UFPel/Ebserh (HEUFPel/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário da UFJF/Ebserh
+(HU-UFJF/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital das Clínicas da UFG/Ebserh
+(HC-UFG/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital de Doenças
+Tropicais/Ebserh (HDT-UFT/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Maternidade Climério de
+Oliveira/Ebserh (MCO-UFBA/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário Professor
+Edgard Santos/Ebserh (HupesUFBA/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário Doutor Miguel
+Riet Corrêa Júnior/Ebserh (HUFurg/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário de
+Lagarto/Ebserh (HUL-UFS/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário Gaffrée e
+Guinle/Ebserh (HUGG-Unirio/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário Júlio
+Bandeira/Ebserh (HUJB-UFCG/Ebserh
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário da
+UFSC/Ebserh (HU-UFSC/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário Alcides
+Carneiro/Ebserh (HUACUFCG/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário Antônio
+Pedro/Ebserh (Huap-UFF/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital de Clínicas de
+Uberlândia/Ebserh (HC-UFU/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário da
+Unifap/Ebserh (HU-UNIFAP/Ebserh)
+
+4
+
+1
+
+1
+
+1
+
+7
+
+Hospital Universitário da
+UFRR/Ebserh (HU-UFRR/Ebserh)
+
+2
+
+4
+
+2
+
+*AC: Ampla Concorrência
+*RF: Renda Familiar bruta igual ou inferior a 1 (um) salário-mínimo per capita.
+*PNP: Pessoas Negras ou Pardas
+*PcD: Pessoas com Deficiência
+*PI: Pessoas Indígenas
+*PQ: Pessoas Quilombolas
+
+ANEXO II - CRONOGRAMA - 3° ciclo PIT/EBSERH/2025-2026
+ETAPAS
+Período de inscrições
+
+DATAS
+14/05/2025 a 13/06/2025
+
+Divulgação da homologação preliminar das inscrições
+
+17/06/2025
+
+Período de interposição de recursos à homologação das
+inscrições
+
+17 e 18/06/2025
+
+Divulgação da homologação final das inscrições
+Avaliação dos Projetos
+
+25/06/2025
+25/06/2025 a 18/07/2025
+
+Divulgação dos resultados preliminares da análise dos
+projetos
+
+21/07/2025
+
+Período de interposição de recursos aos resultados
+preliminares de análise dos projetos
+
+22/07/2025 e 23/07/2025
+
+Divulgação dos resultados da análise de projetos
+
+25/07/2025
+
+Comprovação da condição para vagas destinadas às
+ações afirmativas
+
+28/07/2025 a 30/07/2025
+
+Divulgação dos resultados preliminares de comprovação
+da condição para vagas destinadas às ações afirmativas
+
+01/08/2025
+
+Período de interposição de recursos aos resultados
+preliminares da comprovação da condição para vagas
+destinadas às ações afirmativas
+
+04 e 05/08/2025
+
+Publicação do resultado definitivo
+
+15/08/2025
+
+Entrega de documentação dos alunos
+
+18/08/2025 a 27/08/2025
+
+Cadastro dos bolsistas na Plataforma Carlos Chagas
+
+01/09/2025 a 10/09/2025
+
+Início das atividades
+
+01/09/2025
+
+Vigência da bolsa
+
+01/09/2025 a 30/08/2026
+
+Término das atividades
+Entrega do Relatório Final e Resumo
+
+30/08/2026
+01/09/2026 a 25/09/2026
+
+ANEXO III - INSTRUÇÕES PARA ELABORAÇÃO DE PROJETOS DE INICIAÇÃO TECNOLÓGICA
+I. OBSERVAÇÕES E FORMATAÇÃO
+Para que seja possível realizar uma avaliação justa é fundamental que os projetos possam ter elementos comparáveis entre si, conforme orientações
+abaixo. Sugere-se que o texto seja limitado a no máximo 20 páginas.
+Margens: as margens de um projeto formatado de acordo com as normas da Associação Brasileira de Normas Técnicas (ABNT) devem ser: margem
+esquerda: 3 cm, margem superior: 3 cm, margem direita: 2 cm, margem inferior: 2 cm
+
+Fonte: Times New Roman tamanho 12, podendo-se utilizar também Arial, Calibri ou similar.
+Espaçamento: 1,5 cm nas entrelinhas e nos títulos de seção que ocupam duas linhas; Espaço entre o título de seção e o parágrafo; 6 pontos entre
+parágrafos.
+Numeração das páginas: São numeradas em algarismos arábicos a partir do resumo. Iniciam em um (1) e são centralizadas a 2,5cm da borda inferior.
+Citações direta: Embora o recuo para citações acima de 3 linhas não seja mais obrigatório, caso seja usado, recomenda-se que esse seja de 4 cm da
+margem esquerda, fonte tamanho 10, espaçamento entrelinhas da citação devem ser simples; entre o texto e a citação utiliza-se espaçamento de 1,5
+cm. A citação direta curta deve ser inserida dentro do texto entre aspas.
+Formato de arquivo: O formato do arquivo para submissão deverá ser em PDF.
+Bibliografia:
+· Não liste se não citar;
+· Não cite se não listar;
+· Use literatura atualizada de pelo menos dos últimos 5 anos;
+· Cite apenas referências relevantes e necessárias;
+Fazer:
+· Elabore o projeto dentro de uma ordem lógica;
+· Seja claro, conciso e completo;
+· Use as normas adequadas da língua portuguesa;
+· Redija o texto parafraseando as informações retiradas das fontes de consulta;
+· Utilize figuras, gráficos e/ou tabelas para deixar seu projeto mais compreensível.
+Não fazer:
+· Colocar dados pessoais, dados pessoais sensíveis, tanto do(a) orientador(a) quando do(a) candidato(a) à bolsa, como também qualquer outro dado que
+possa identificar o nome laboratório de pesquisa vinculado, ou dados do grupo de pesquisa citando referências de estudos anteriores desenvolvidos,
+número do Certificado de Apresentação de Apreciação Ética (CAAE) ou parecer do CEP. O objetivo é que o projeto seja anonimizado para avaliação pela
+comissão institucional;
+· Uso de gírias/jargões comumente usados em laboratório;
+· Sentenças ou parágrafos muito longos;
+· Usar figuras, tabelas, gráficos e afins no resumo;
+· Nunca apresente parte de livros, periódicos ou ideias da literatura como de sua autoria. Esta prática é considerada plágio; um crime intelectual; a não
+ser que seja citação direta e mencionada conforme as regras da ABNT.
+II. ITENS PARA O PROJETO
+O Projeto para a Iniciação Tecnológica deve conter os seguintes itens: Capa com Título, Sumário, Resumo com 3 a 5 palavras-chave, Introdução, Objetivos
+Gerais, Objetivos Específicos, Justificava da Pesquisa, Revisão da literatura, Estado da Técnica, Metodologia, Resultados Esperados, Cronograma do(a)
+bolsista no período de vigência da bolsa, Bibliografia e ANEXO (Opcional).
+Seguem abaixo algumas orientações sobre os elementos do projeto:
+1) Capa com os tópicos abaixo:
+Título do Projeto;
+Nome do programa e fonte financiadora (PIT Ebserh/CNPq);
+Área de conhecimento conforme CNPq;
+Número de edital
+2) Sumário
+I. Resumo..........................................................................................página
+II. Introdução.....................................................................................página
+III. Objetivos......................................................................................página
+IV. Objetivos específicos....................................................................página
+V. Justificativa....................................................................................página
+VI. Revisão da literatura....................................................................página
+VII. Estado da Técnica........................................................................página
+VIII. Metodologia ...............................................................................página
+IX. Resultados esperados...................................................................página
+X. Cronograma...................................................................................página
+XI. Bibliografia....................................................................................página
+XII. Anexos.........................................................................................página
+
+3) Resumo
+O Resumo deve descrever sumariamente o trabalho de forma clara, concisa e completa dos conteúdos do projeto. Ele deverá conter uma breve
+introdução da temática, a metodologia a ser utilizada para execução da pesquisa, justificativa e o objetivo. O texto deverá conter no máximo 300
+palavras em que se consiga captar toda a essência do que é transmitido na proposta de trabalho. Cabe ao autor fazer um resumo que cative o leitor e o
+leve a interessar-se pela proposta. Deve ser a última secção a ser escrita, apenas quando tudo o restante já está terminado.
+Palavras-chaves: No final do resumo, elencar de 3 a 5 palavras-chaves usados como identificadores, que podem ser termos simples ou expressões
+compostas escolhidas pelo próprio autor. As palavras-chaves definem o assunto abordado na pesquisa.
+4) Introdução
+A Introdução fornece uma visão geral do trabalho apresentado, o problema a ser solucionado, seu contexto e justificativa. A Introdução proporciona ao
+leitor, além de uma visão geral do trabalho realizado, uma compreensão do motivo de sua execução e como esse trabalho se conecta com o problema
+que se pretende abordar.
+5) Objetivos
+Ao concluir a introdução, detalhar os objetivos do estudo. Não esqueça que os objetivos fazem parte do projeto e precisam ser detalhados. Neste tópico,
+o pesquisador deverá descrever o objetivo concreto da pesquisa que irá desenvolver. Corresponde em responder à pergunta: “o que se vai procurar?”.
+A descrição dos objetivos varia em função da natureza do projeto. Nos objetivos da pesquisa cabe identificar claramente o problema e apresentar sua
+delimitação. Apresentam-se os objetivos de forma geral e específica.
+a. Objetivo geral
+Descreve o que o pesquisador pretende alcançar com sua investigação.
+b. Objetivos específicos
+Objetivos específicos: descrevem as etapas do trabalho a serem realizadas para que se alcance o objetivo geral. Objetivos específicos estão diretamente
+ligados aos objetivos gerais, mas são responsáveis por detalhar as ideias do estudo. Eles funcionam como um guia do que será abordado no trabalho.
+Cada objetivo específico deve ser mensurável e verificável. Ao descrevê-los, deve-se considerar os indicadores quantitativo e/ou qualitativo possíveis de
+medir seu cumprimento. Nesse sentido, a redação deve ser precisa.
+6) Justificativa
+Trata-se da exposição, de maneira clara, direta e detalhada, das razões teóricas ou práticas que fundamentam a execução do estudo ou o tópico sugerido
+para análise inicial. Em síntese, significa; por que fazer?
+No campo justificativa, o(a) proponente deve explicitar:
+a) Se sua proposta se refere à melhoria de uma tecnologia, produto, serviço ou processo existente, considerando o ciclo operacional do negócio.
+b) Deve estar claramente definido o estado da técnica relacionada à tecnologia, produto, serviço ou processo, o que já existe em relação ao tema;
+c) As contribuições para o avanço da tecnologia, produto, serviço ou processo, explicitando as características da nova tecnologia, do produto, do serviço
+ou do processo que resultará do projeto e o que será produzido de diferente em relação às soluções já existentes.
+d) O estágio de evolução dos conhecimentos relacionados ao assunto.
+Definição do Objeto de Estudo:
+Deve levar em consideração alguns aspectos tais como: o problema central (qual a principal lacuna tecnológica que a pesquisa pretende solucionar), o
+foco tecnológico (desenvolvimento de novas ferramentas digitais, inteligência artificial, telessaúde, dispositivos em saúde, bioengenharia, automação,
+ou outro campo específico); e a aplicação prática (como a pesquisa pode gerar inovação aplicável no setor escolhido).
+7) Revisão da literatura
+A revisão bibliográfica de um estudo também pode ser referida como referencial teórico, revisão de literatura, fundamentação teórica, abordagem
+teórica ou embasamento teórico. Nesta visão, é possível incluir textos, artigos, livros, revistas e outros recursos que compõem a bibliografia de um
+estudo científico. No entanto, dois aspectos cruciais devem ser considerados: 1) a fonte de pesquisa utilizada deve ser de confiança; e 2) toda fonte de
+pesquisa deve ser adequadamente citada e parafraseada para prevenir a prática de plágio.
+Em geral, a revisão de literatura consiste na análise das pesquisas e debates de outros escritores sobre o assunto que será tratado no seu estudo. Em
+outras palavras, é a incorporação de teorias de outros autores na sua investigação.
+8) Estado da Técnica
+O proponente da análise do estado da técnica deve apresentar os resultados da busca por patentes semelhantes que buscam solucionar o mesmo
+problema técnico, citando-as para compará-las com sua própria tecnologia. Após a realização da busca patentária, nesta seção do projeto devem ser
+referenciadas apenas as seguintes informações:
+a) Identificação dos registros de patentes concedidas ou não (exclusivamente para patentes);
+b) Título da patente;
+c) Bases de dados de patentes consultadas.
+9) Metodologia
+Neste tópico, o autor precisa ser extremamente meticuloso e detalhar tudo com o maior rigor metodológico. Aqui será relatado, detalhadamente, como
+será desenvolvida cada etapa do projeto. Sugere-se descrever em etapas, ou momentos, para uma fácil organização das ações, descrever, também, os
+
+recursos que serão utilizados para o desenvolvimento do projeto. Seguem sugestões de alguns tópicos que poderão ser descritos.
+a) Critérios Éticos: caso o projeto envolva uso de seres humanose/ou dados, nessa seção deverá ser informado que o projeto será conduzido conforme
+as resoluções 466/2012 e 510/2016 do Conselho Nacional de Saúde, após sua validação pelo CEP. Caso o projeto já tenha sido avaliado e/ou aprovado
+pelo CEP, não inserir o CAAE ou o parecer do CEP para preservar a anonimização do projeto. Informar sobre os propósitos e métodos a serem utilizados,
+assegurando a anonimização e a confidencialidade das informações. Mencionar que os participantes terão suas identidades/dados preservados em sigilo
+e que os resultados do projeto serão apenas divulgados por meio de artigos científicos em revistas indexadas ou por meio de desenvolvimento de
+produtos de inovação tecnológica. Se aplicável, depois de serem esclarecidos sobre a projeto, os participantes assinarão o termo de
+consentimento/assentimento livre e esclarecido (TCLE/TALE). Os modelos de TCLE e/ou TALE deverão ser anexados ao projeto;
+b) Propriedade intelectual: caso o projeto apresente potencial registro de patente, deverá ser mencionado neste item e o Termo de Compromisso para
+Utilização de Dados, Confidencialidade e Sigilo (modelo ANEXO VI) deverá ser incluído como ANEXO, conforme previsto no edital. Informar se o projeto
+se trata de: i) melhoria de produto, serviço ou processo, ii) nova tecnologia produto, serviço ou processo;
+c) Amostra: detalhar a amostra utilizada no estudo, e descrever quais serão os critérios utilizados na sua escolha e a sua representatividade;
+d) Critérios de Inclusão e exclusão: descrever de forma detalhada os procedimentos a serem adotados para a dispensa, escolha e conservação da
+amostra;
+e) Procedimentos da pesquisa: detalhar o percurso completo do estudo, desde o início até a fase final de coleta de dados;
+f) Instrumentos: detalhar minuciosamente quais instrumentos e como serão empregados;
+g) Análise Estatística: é um componente crucial do trabalho que descreverá a forma como os dados serão examinados e tratados. Mencionar quais as
+ferramentas que poderão ser utilizadas.
+10) Resultados Esperados:
+Descrever os resultados e/ou produtos esperados. Os resultados esperados não são repetições da justificativa do projeto. Na justificativa, o poponente
+deve descrever o motivo pelo qual vale a pena desenvolver o projeto, e, nos resultados esperados, deve estar claro quais são os indicadores propostos
+(quantitativos e/ou qualitativos): o produto final da pesquisa, inovações tecnológicas e/ou como contribuirá para a sociedade. Os resultados e/ou
+produtos esperados devem ser descritos de maneira clara. Os resultados esperados representam a concretização dos objetivos específicos que se
+pretende atingir.
+Para facilitar essa análise, é possível categorizar os impactos com base no tempo em que podem ocorrer (imediatos, médio e longo prazo) ou no alcance
+(institucional, multi/interinstitucional, estadual, nacional, no campo do conhecimento etc.). Em casos específicos, como projetos voltados para produtos
+de mercado, é importante realizar uma análise de custo-benefício. Nesse contexto, deve-se elaborar estudos de viabilidade durante a fase de preparação
+do projeto.
+11) Cronograma
+O desenvolvimento do cronograma responde à questão "quando"? O projeto deve ser segmentado, estimando-se o tempo necessário para transitar de
+uma etapa para outra. É importante lembrar que existem partes que podem ser realizadas simultaneamente, enquanto outras necessitam de etapas
+anteriores. Distribuir o tempo total disponível para a execução da investigação. Uma forma adequada de elaborar um cronograma é no formato de
+quadro de planejamento.
+12) Bibliografia/Referências Bibliográficas
+A formatação da lista de referências do projeto deve seguir as orientações da ABNT.
+13) Anexos
+ANEXO IV - RELAÇÃO DE E-MAILS PARA DIRIMIR DÚVIDAS - PIT
+HOSPITAL
+
+E-MAIL PARA DÚVIDAS PIT
+
+Complexo do Hospital de Clínicas da UFPR (CHC-UFPR)
+
+ugits.chc-ufpr@ebserh.gov.br
+
+Complexo Hospitalar da UFC (CH-UFC)
+Complexo Hospitalar da Universidade Federal do Pará (CHU-UFPA)
+
+ugits.chc-ufpr@ebserh.gov.br
+pit.chu-ufpa@ebserh.gov.br
+
+Complexo Hospitalar da UFRJ/Ebserh (CH-UFRJ/Ebserh)
+
+supep.ch-ufrj@ebserh.gov.br
+
+Hospital das Clínicas da UFPE (HC-UFPE)
+
+nap.hcpe@ebserh.gov.br
+
+Hospital das Clínicas da Universidade Federal de Minas Gerais (HC-UFMG)
+
+ugits.hc-ufmg@ebserh.gov.br
+
+Hospital das Clínicas de Goiás (HC-UFG)
+
+ugits.hc-ufg@ebserh.gov.br
+
+Hospital de Clínicas da UFTM (HC-UFTM)
+
+ugits.hc-uftm@ebserh.gov.br
+
+Hospital de Clínicas da Universidade Federal de Uberlândia (HC-UFU)
+Hospital de Doenças Tropicais (HDT-UFT)
+
+ugits.hc-ufu@ebserh.gov.br
+cicit.hdt@ebserh.gov.br
+
+Hospital de Ensino Dr. Washington Antônio de Barros (HU-Univasf)
+
+pit.hewab@ebserh.gov.br
+
+Hospital Escola da UFPel (HE-UFPel)
+
+pit.he-ufpel@ebserh.gov.br
+
+Hospital Universitário de Lagarto (HUL-UFS)
+
+sgpit.hul@ebserh.gov.br
+
+Hospital Universitário Alcides Carneiro (HUAC-UFCG)
+
+ugits.huac-ufcg@ebserh.gov.br
+
+Hospital Universitário Ana Bezerra (Huab-UFRN)
+
+sgpits.huab-ufrn@ebserh.gov.br
+
+Hospital Universitário Antonio Pedro (Huap-UFF)
+Hospital Universitário Cassiano Antônio de Morais (Hucam-Ufes)
+
+pit.huap-uff@ebserh.gov.br
+ugits.hucam-ufes@ebserh.gov.br
+
+Hospital Universitário da UFMA (HU-UFMA)
+
+pic.pit@huufma.br
+
+Hospital Universitário da UFS (HU-UFS)
+
+setgpi.huse@ebserh.gov.br
+
+Hospital Universitário da UFSCar (HU-UFSCar)
+
+sgpits.hu-ufscar@ebserh.gov.br
+
+Hospital Universitário da Universidade Federal de Grande Dourados (HU-UFGD) ugits.hu-ufgd@ebserh.gov.br
+Hospital Universitário da Universidade Federal de Juiz de Fora (HU-UFJF)
+copit.hu-ufjf@ebserh.gov.br
+Hospital Universitário da Universidade Federal do Amapá (HU-Unifap)
+
+pit.hu-unifap@ebserh.gov.br
+
+Hospital Universitário de Brasília (HUB-UnB)
+
+ugits.hub-unb@ebserh.gov.br
+
+Hospital Universitário de Santa Maria (HUSM-UFSM)
+
+ugits.husm-ufsm@ebserh.gov.br
+
+Hospital Universitário do Piauí (HU-UFPI)
+
+sgpits.hu-ufpi@ebserh.gov.br
+
+Hospital Universitário Dr. Miguel Riet Correa Júnior (HU-Furg)
+
+gep.hu-furg@ebserh.gov.br
+
+Hospital Universitário Gaffrée e Guinle (HUGG-Unirio)
+Hospital Universitário Getúlio Vargas (HUGV-Ufam)
+
+sgpits.hugg-unirio@ebserh.gov.br
+ic.hugv-ufam@ebserh.gov.br
+
+Hospital Universitário Júlio Maria Bandeira de Melo (HUJB-UFCG)
+
+sgpits.hujb-ufcg@ebserh.gov.br
+
+Hospital Universitário Júlio Muller (HUJM-UFMT)
+
+pit.hujm-ufmt@ebserh.gov.br
+
+Hospital Universitário Lauro Wanderley (HULW-UFPB)
+
+ugits.hulw-ufpb@ebserh.gov.br
+
+Hospital Universitário Maria Aparecida Pedrossian (Humap-UFMS)
+
+icient.humap-ufms@ebserh.gov.br
+
+Hospital Universitário Onofre Lopes (Huol-UFRN)
+
+ugits.huol-ufrn@ebserh.gov.br
+
+Hospital Universitário Polydoro Ernani de São Thiago (HU-UFSC)
+Hospital Universitário Professor Alberto Antunes (HUPAA-Ufal)
+
+ugits.hu-ufsc@ebserh.gov.br
+ugits.hupaa-ufal@ebserh.gov.br
+
+Hospital Universitário Professor Edgard Santos (Hupes-UFBA)
+
+ugits.hupes-ufba@ebserh.gov.br
+
+Maternidade Climério de Oliveira (MCO-UFBA)
+
+sgpit.mco@ebserh.gov.br
+
+Maternidade Escola Januário Cicco (MEJC-UFRN)
+
+pesquisa.mejc@ebserh.gov.br
+
+Hospital Universitário da Universidade Federal de Roraima (HU-UFRR)
+
+gep.hu-ufrr@ebserh.gov.br
+
+ANEXO V - DECLARAÇÃO DE CONFLITO DE INTERESSES
+Eu, ____________________________________ (nome completo), CPF n°_________(número), brasileiro, estrangeiro (nesse caso indicar número do
+Registro Nacional de Estrangeiro/RNE) maior, capaz, no âmbito do projeto de desenvolvimento científico/tecnológico intitulado “Título do Projeto”,
+DECLARO, para todos os fins de direito e sob penas das responsabilidades legais:
+( ) que tenho ciência dos termos das Políticas de Governança da EBSERH, em especial da Política de Proteção de Dados Pessoais, Política de Segurança da
+Informação, Política de Classificação, Informação, Sigilo e Temporalidade, Regulamento de Pessoal e Norma Operacional de Controle Disciplinar e Política
+de Transação com Partes Relacionadas, Código de Ética e Programa de Integridade, disponíveis em https://www.gov.br/ebserh/ptbr/governanca/governanca-corporativa.
+( ) não me enquadro em situações de impedimento a exercício de função pública – qualquer que seja a natureza do vínculo – ou de conflito de interesse,
+segundo a ordem jurídica vigente, em especial a Lei nº 12.813, de 16 de maio de 2013, a Lei nº 8.429, de 2 de junho de 1992 e outras normas
+reguladoras de relações com a administração pública indireta.
+( ) não firmei contrato ou parceria, como fornecedor ou comprador, demandante ou ofertante, de bens ou serviços de qualquer natureza, com a União,
+com a própria estatal ou com empresa estatal do seu conglomerado estatal, nos últimos três anos.
+Por fim, reafirmo a veracidade das informações prestadas, sob pena de incursão no crime de falsidade ideológica, previsto no art. 299 do Código Penal,
+sem prejuízo de eventual responsabilização administrativa, disciplinar e/ou civil.
+______________, _____de_________202__.
+_________________________________________
+Assinatura
+Nome do Orientador
+Cargo/Função
+
+ANEXO VI - TERMO DE COMPROMISSO PARA UTILIZAÇÃO DE DADOS, CONFIDENCIALIDADE E SIGILO
+Eu, ________________________ (nome completo do(a) orientador(a)), CPF nº____________, no âmbito do projeto de desenvolvimento tecnológico
+intitulado “Título do Projeto”, comprometo-me com a utilização adequada dos dados contidos no banco de dados a que terei acesso para execução do
+projeto.
+Comprometo-me a utilizar tais dados exclusivamente para os fins previstos no projeto, e somente após a devida aprovação pela Gerência de Ensino e
+Pesquisa e pelo sistema CEP/CONEP, quando aplicável.
+Declaro, ainda, que manterei a confidencialidade e o sigilo das informações acessadas, resguardando a privacidade dos dados e observando a legislação
+vigente, bem como as normas internas da Ebserh, em especial: a Política de Proteção de Dados Pessoais; a Política de Segurança da Informação; e a
+Política de Classificação, Informação, Sigilo e Temporalidade - disponíveis em: https://www.gov.br/ebserh/pt-br/governanca/governanca-corporativa.
+I. Por este Termo, comprometo-me a:
+1. Assegurar a preservação dos dados confidenciais e pessoais, realizando a anonimização ou a pseudonimização sempre que possível, nos termos
+da Lei n.º 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD);
+
+2. Não utilizar as informações confidenciais a que tiver acesso, para gerar benefício próprio exclusivo e/ou unilateral, presente ou futuro;
+3. Não efetuar nenhuma gravação ou cópia da documentação confidencial a que tiver acesso relacionadas a exames e informações da rotina
+diária, a não ser aquelas necessárias as informações relacionadas ao projeto de pesquisa previamente descritas e aprovadas pela Gerência de
+Ensino e Pesquisa;
+4. Não me apropriar de material confidencial e/ou sigiloso que venha a ser disponibilizados;
+5. Não repassar a terceiros as informações confidenciais contidas nos documentos a que tiver acesso, especialmente, mas não apenas,
+informações referentes a prontuários e/ou pacientes;
+6. Não repassar os dados coletados ou o banco de dados em sua íntegra, ou parte dele, a pessoas não envolvidas na equipe da pesquisa.
+7. Orientar a equipe e os(as) envolvidos(as) quanto às boas práticas em sigilo e confidencialidade
+II. Para os fins deste Termo, será considerada informação confidencial toda informação e conhecimento fornecido ao(à) orientador(a) ou à equipe do
+projeto, de forma escrita, verbal ou por qualquer outro meio, que, por sua natureza, deva ser razoavelmente entendida como confidencial, ainda que
+não expressamente indicada como tal.
+II.1. Também será considerada informação confidencial toda informação ou conhecimento que, independentemente de sua natureza, seja
+expressamente indicado como confidencial pela Ebserh, pela Gerência de Ensino e Pesquisa ou por outro representante do hospital.
+II.2. Informação confidencial inclui, mas não limita, aos dados pessoais, informação relativa à operações, processos, planos ou intenções, informações
+sobre produção, instalações, equipamentos, segredos de negócio, segredo de fábrica, dados, habilidades especializadas, projetos, métodos e
+metodologia, fluxogramas, especializações, componentes, fórmulas, produtos, amostras, diagramas, desenhos de esquema industrial, patentes,
+oportunidades de mercado e questões relativas a negócios.
+III. Estou ciente de que o descumprimento dessas disposições poderá implicar na suspensão do projeto, além da responsabilização em todas as esferas
+cabíveis, nos termos da legislação aplicável.
+IV. Os(as) integrantes da equipe do projeto, abaixo assinados, declaram estar cientes e de acordo com as disposições deste Termo, comprometendo-se a
+cumpri-las integralmente.
+Nome
+Completo
+
+Atividade no projeto (Ex: Pesquisador
+Principal/ Subinvestigador/Auxiliar de
+Pesquisa/ Pesquisador etc)
+
+CPF
+
+Assinatura
+
+______________, _____de__________202__.
+Observações:
+- Todos os pesquisadores que terão acesso aos documentos do arquivo deverão ter o nome completo e o documento de identificação válido inclusos no
+Termo de Compromisso de Utilização de Dados. O termo deverá estar devidamente assinado por todas as partes envolvidas (pesquisadores e
+responsáveis institucionais) e ser anexado na submissão à GEP.
+- Observar os aspectos legais referentes ao uso de bancos de dados, considerando as disposições da Lei nº 12.527, de 18 de novembro de 2011 (Lei de
+Acesso à Informação), e da Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais - LGPD), que estabelece regras específicas
+para o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, para fins
+acadêmicos e para a realização de estudos e pesquisas.
+- A LGPD se aplica a qualquer operação de tratamento de dados pessoais realizada por pessoa natural ou por pessoa jurídica de direito público ou
+privado no território nacional. Desta forma, a LGPD prevê que dados pessoais e sensíveis devam ser tratados de forma legal, justa e transparente em
+relação aos titulares dos dados, em decorrência dos potenciais riscos em relação a seus direitos e suas liberdades.
+ANEXO VII - DECLARAÇÃO DE PARTICIPAÇÃO EM PROJETO
+Dados do Participante:
+Nome completo:
+Telefone de contato:
+[E-mail]:
+Nome da empresa ou instituição:
+Endereço da empresa ou instituição:
+Telefone de contato:
+[E-mail]:
+Esta declaração tem como finalidade reconhecer a participação de [Nome do Participante e/ou Empresa] no projeto [Título do Projeto], conforme as
+condições descritas abaixo:
+· Título do Projeto:
+· Descrição detalhada da participação no projeto:
+· Descrição detalhada da contribuição no projeto:
+A participação se dá entre [Data de Início] e [Data de Término], com as seguintes metas: [Definição de metas e objetivos a serem alcançados].
+Responsabilidades específicas: o participante se compromete a [Listar responsabilidades e obrigações do participante no projeto].
+Este documento trata do reconhecimento formal da participação do indivíduo/empresa no projeto, não implicando em qualquer vínculo empregatício ou
+contratual.
+
+___________________, _____de__________202_.
+_________________________________________
+Assinatura
+Nome completo do Responsável
+Cargo/Função do Responsável
+ANEXO VIII- DECLARAÇÃO DE NÃO ACÚMULO DE BOLSAS
+Eu ________________________________________(nome completo do(a) bolsista), inscrito no CPF nº ________________, bolsista do Programa de
+Iniciação Tecnológica (PIT) do _____________(SIGLA DO HOSPITAL) /Ebserh 202X-202X, financiado pela Ebserh, declaro que não recebo bolsa(s) de
+outro(s) Programa(s) do CNPq ou de quaisquer agências nacionais, estrangeiras ou internacionais de fomento ao ensino e à pesquisa ou congêneres.
+Declaro, ainda, que estou ciente de que não é considerada acúmulo a manutenção simultânea de bolsa do PIT com bolsas concedidas por Instituição
+Federal de Ensino Superior ou pelo Ministério da Educação, quando estas possuírem objetivos assistenciais, de manutenção ou de permanência, e com
+finalidades distintas de iniciação tecnológica.
+______________, _____de__________202_.
+______________________________________
+NOME COMPLETO DO(A) BOLSISTA
+Aluno(a) de graduação em XXXX
+Universidade Federal XXXXXXX
+
+ANEXO IX - TERMO DE COMPROMISSO E RESPONSABILIDADE DO(A) BOLSISTA
+Eu ________________________________________(nome completo do(a) bolsista), inscrito no CPF nº XXX.XXX.XXX.XX, bolsista do Programa de
+Iniciação Tecnológica do _____________(SIGLA DO HOSPITAL) /Ebserh 202X-202X, financiado pela Ebserh, assumo, no período da vigência da bolsa, os
+seguintes compromissos:
+a) Estar regularmente matriculado(a), durante toda a vigência da bolsa, em curso de graduação da universidade à qual o hospital está vinculado;
+a.1. Em caso de interrupção do vínculo regular como aluno(a) antes do término da vigência da bolsa, o(a) bolsista deverá comunicar imediatamente a
+coordenação do programa, para fins de cancelamento da bolsa.
+a.2. Para fins deste edital, considera-se como data de término da graduação a data de egresso registrada na coordenação do curso. Datas cerimoniais,
+como colação de grau, não caracterizam vínculo acadêmico vigente.
+b) Não ter vínculo empregatício ou outra atividade remunerada que comprometa sua dedicação ao projeto, exceto se atuar como estudante voluntário;
+c) Ter disponibilidade para dedicar-se às atividades acadêmicas e de pesquisa;
+d) Não ser cônjuge, companheiro ou familiar, consanguíneo ou afim, até o terceiro grau, do(a) orientador(a);
+e) Ser selecionado e indicado pelo(a) orientador(a);
+f) Apresentar currículo Lattes CNPq, atualizado 3 meses da inscrição;
+g) Não receber bolsa(s) de outro(s) Programa(s) do CNPq ou de quaisquer agências nacionais, estrangeiras ou internacionais de fomento ao ensino e à
+pesquisa ou congêneres, exceto bolsa concedida por Instituição Federal de Ensino Superior ou pelo Ministério da Educação, quando esta possuir
+objetivos assistenciais, de manutenção ou de permanência, e com finalidades distintas de iniciação tecnológica;
+h) Fazer, obrigatoriamente, referências à sua condição de bolsista do PIT Ebserh/sigla HUF, nos trabalhos apresentados em eventos de qualquer natureza
+e meio de comunicação;
+i) Aceitar o Termo de Compromisso do CNPq (enviado por e-mail);
+j) Entregar os relatórios parcial e final de atividades conforme prazo estipulado;
+k) Devolver ao órgão de fomento, em valores atualizados, a(s) bolsa(s) recebida(s) indevidamente caso os requisitos e compromissos estabelecidos neste
+edital não sejam cumpridos.
+______________, _____de__________202_.
+______________________________________
+NOME COMPLETO DO(A) BOLSISTA
+Aluno(a) de graduação em XXXX
+Universidade Federal XXXXXXX
+
+ANEXO X - TERMO DE COMPROMISSO E RESPONSABILIDADE DO(A) VOLUNTÁRIO(A)
+Eu ________________________________________(nome completo do(a) voluntário(a)), inscrito no CPF nº XXX.XXX.XXX.XX, voluntário do Programa de
+Iniciação Tecnológica do _____________(SIGLA DO HOSPITAL) /Ebserh 202X-202X, financiado pela Ebserh, assumo, no período da vigência do projeto, os
+
+seguintes compromissos:
+a) Estar regularmente matriculado(a), durante toda a vigência da bolsa, em curso de graduação da universidade à qual o hospital está vinculado;
+a.1. Em caso de interrupção do vínculo regular como aluno(a) antes do término da vigência da bolsa, comunicar imediatamente a coordenação do
+programa.
+a.2. Para fins deste edital, considera-se como data de término da graduação a data de egresso registrada na coordenação do curso. Datas cerimoniais,
+como colação de grau, não caracterizam vínculo acadêmico vigente.
+b) Ter disponibilidade para dedicar-me às atividades acadêmicas e de pesquisa;
+c) Não ser cônjuge, companheiro ou familiar, consanguíneo ou afim, até o terceiro grau, do(a) orientador(a);
+d) Ser selecionado e indicado pelo(a) orientador(a);
+e) Apresentar currículo Lattes CNPq, atualizado 3 meses da inscrição;
+f) Fazer, obrigatoriamente, referências à minha condição de voluntário do PIT Ebserh/sigla HUF, nos trabalhos apresentados em eventos de qualquer
+natureza e meio de comunicação;
+g) Entregar os relatórios parcial e final de atividades conforme prazo estipulado;
+______________, _____de__________202_.
+______________________________________
+NOME COMPLETO DO(A) VOLUNTÁRIO(A)
+Aluno(a) de graduação em XXXX
+Universidade Federal XXXXXXX
+
+ANEXO XI- TERMO DE AUTORIZAÇÃO PARA PUBLICAÇÃO DA PRODUÇÃO TECNOLÓGICA
+Conforme disposto na Lei Federal 9.610, de 19 de fevereiro de 1998 e na Lei 10.973, de 2 de dezembro de 2004.
+Termo de autorização para publicação da produção científica e tecnológica.
+Autorizo a Empresa Brasileira de Serviços Hospitalares (Ebserh), a disponibilizar e compartilhar gratuitamente, sem ressarcimento dos direitos autorais, o
+documento supracitado, de minha autoria, no repositório institucional da Administração Central e filial [sigla do hospital] da Ebserh, para fins de leitura
+e/ou impressão pela internet, a título de divulgação da produção cientifica e tecnológica brasileira, a partir desta data.
+1. Identificação do tipo de documento: Anais de Evento
+2. Identificação do(a) autor(a) e do documento:
+Autor:
+CPF:
+E-mail:
+Telefone:
+Título:
+Programa (PIC ou PIT):
+Área de Conhecimento:
+Orientador:
+E-mail:
+Declaro que:
+
+Declaração de distribuição não exclusiva
+
+a. O documento entregue é meu trabalho original, e que detenho o direito de conceder os direitos contidos nesta licença. Declaro também que a
+entrega do documento não infringe, tanto quanto me é possível saber, os direitos de qualquer outra pessoa ou entidade;
+b. Se o documento entregue contém material do qual não detenho os direitos de autor, declaro que obtive autorização do detentor dos direitos de autor
+para conceder à Ebserh os direitos requeridos por esta licença, e que esse material cujos direitos são de terceiros está claramente identificado e
+reconhecido no texto ou conteúdo do documento entregue.
+c. Se o documento entregue é baseado em trabalho financiado ou apoiado por outra instituição que não Hospital Universitário Federal, declaro que
+cumpri quaisquer obrigações exigidas pelo respectivo contrato ou acordo.
+d. Atesto que, se solicitado, fornecerei ou cooperarei na obtenção e fornecimento de dados sobre os quais o trabalho está sendo baseado, para
+eventuais demandas relacionados ao mesmo.
+Termo de autorização
+a. Na qualidade de titular dos direitos de autor da obra, autorizo a Ebserh a disponibilizar o texto integral do trabalho citado, conforme permissão abaixo
+por mim assinada, para fins de leitura, impressão e/ou download, a partir desta data.
+b. A obra continua protegida por Direito Autoral e/ou por outras leis aplicáveis. É proibido qualquer uso da obra que não o autorizado pela legislação
+autoral.
+
+Este formulário deve ser encaminhado à Administração Central da Ebserh junto com a versão digital em PDF do documento.
+
+______________, _____de__________202_.
+
+________________________________________________
+Assinatura do Autor e/ou Detentor dos Direitos do Autor
+
+ANEXO XII - TERMO DE AUTORIZAÇÃO DE USO DE IMAGEM E VOZ
+Eu ________________________________________(nome completo do(a) bolsista), inscrito no CPF nº ______________, [bolsista ou orientador(a)] do
+Programa de Iniciação Tecnológica (PIT) do _____________(SIGLA DO HOSPITAL)/Ebserh 202X-202X, financiado pela Ebserh, AUTORIZO o uso de minha
+imagem e voz, em caráter gratuito, em projetos, ações e divulgações da Administração Central da Empresa Brasileira de Serviços Hospitalares (EBSERH),
+bem como dos Hospitais Universitários Federais vinculados à estatal.
+O material poderá ser divulgado pela empresa em qualquer dos seus meios (internos e externos), incluindo as redes sociais (youtube, facebook,
+instagram, twitter, entre outros), tanto pela Administração Central, quanto pelas suas filiais e órgãos públicos parceiros, em qualquer tempo ou ocasião,
+em todo território nacional e no exterior, sem nenhum tipo de ônus para a empresa, filiais ou parceiros.
+______________, _____de__________202_.
+____________________________________
+Assinatura
+
+Documento assinado eletronicamente por Cristiane Carvalho Santos Melo, Diretor(a), em 13/05/2025, às 14:44, conforme horário oficial de Brasília,
+com fundamento no art. 6º, caput, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+A autenticidade deste documento pode ser conferida no site https://sei.ebserh.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 49368303 e o código CRC 55EEE42A.
+
+Referência: Processo nº 23477.010157/2025-17
+
+SEI nº 49368303
+
+

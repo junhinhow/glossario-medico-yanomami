@@ -1,0 +1,353 @@
+PROGRAMA DE INICIAÇÃO CIENTÍFICA DA EBSERH - PIC/EBSERH
+
+PROJETO DE PESQUISA
+
+Título do Projeto: Quebrando Barreiras na Saúde: Criação de um Glossário
+Digital Indígena para Facilitar a Comunicação Médico-Paciente em Roraima
+
+Introdução
+
+Panorama da População Indígena em Roraima
+
+Os Yanomamis, um dos principais grupos indígenas de Roraima, ocupam um
+território que se estende por cerca de 192.000 km², abrangendo áreas do
+Brasil e da Venezuela. Essa população é linguisticamente diversa, com
+cinco línguas principais (sanöma, ninam, anomam, yanomamɨ e ẽyaroamë)
+com variações dialetais e culturais. Dados da Secretaria de Saúde
+Indígena (SESAI - RR) e do Distrito Sanitário Especial Indígena
+evidenciam que na Terra Indígena Yanomami (TIY) vivem aproximadamente
+31.007 pessoas, divididas em cerca de 384 aldeias.
+
+Em relação às condições de vida dessa população, a saúde dos Yanomamis é
+particularmente vulnerável devido às condições precárias de assistência
+nessa área e à falta de recursos em suas comunidades. Doenças
+infecciosas e parasitárias, juntamente com doenças respiratórias, são as
+principais causas de adoecimento e mortalidade entre os indígenas
+(GARNELO; PONTES, 2012). Atualmente, os Yanomamis passam por uma grave
+situação de insegurança alimentar e crise na saúde, principalmente
+devido ao crescimento do garimpo ilegal e à falta de atendimento médico,
+como destaca o documento Boletim Yanomami (2023). Segundo o Ministério
+da Saúde (2023), nos últimos quatro anos, doenças trazidas por
+garimpeiros ilegais tiraram a vida de 570 crianças. Além da perda
+humana, a devastação ambiental também é evidente na forma de destruição
+da biodiversidade causada pela contaminação da água devido ao mercúrio e
+ao deslocamento de animais de caça (SANT’ANNA, 2023).
+
+No que diz respeito ao cuidado em saúde, o Distrito Sanitário Especial
+Indígena (DSEI) Yanomami foi o primeiro DSEI estabelecido no âmbito da
+saúde indígena. Entende-se por DSEI uma estrutura organizacional do
+Sistema Único de Saúde (SUS) voltada para a promoção e atenção à saúde
+das populações indígenas. Apesar dessa estrutura organizacional de
+assistência, reitera-se que o sistema ainda falha em atender
+adequadamente às necessidades específicas dessa população. Segundo
+Nilsson (2018), a comunicação entre profissionais de saúde e os
+Yanomamis é prejudicada por diferenças culturais e linguísticas, o que
+pode levar à resistência dos indígenas em aceitar tratamentos médicos.
+Essa barreira é exacerbada pela falta de profissionais familiarizados
+com a cultura Yanomami e pela ausência de intérpretes nos hospitais,
+como no Hospital Geral de Roraima (HGR), que frequentemente atende
+pacientes indígenas.
+
+Comunicação médico-paciente e a interculturalidade no atendimento ao
+paciente indígena
+
+Porto et al. (2014, p. 46) define que “a anamnese é a parte mais
+importante da medicina: primeiro, porque é o núcleo em torno do qual se
+desenvolve a relação médico-paciente, que, por sua vez, é o principal
+pilar do trabalho do médico. A anamnese, se bem-feita, acompanha-se de
+decisões diagnósticas e terapêuticas corretas; se malfeita, em
+contrapartida, desencadeia uma série de consequências negativas”. Nesse
+sentido, fica evidente que a identificação do quadro clínico do
+paciente, a determinação do seu tratamento, bem como a continuidade
+deste, dependem de uma comunicação eficaz.
+
+Por sua vez, a compreensão mo m\u00futua é essencial para a realização
+de uma boa anamnese. Dessa forma, a comunicação eficaz emerge como um
+componente essencial para um diagnóstico preciso (McMANUS, 1992).
+Entretanto, a coleta da anamnese acaba sendo prejudicada quando há
+barreiras linguísticas que dificultem o entendimento entre as partes
+durante a comunicação, como ocorre com frequência no atendimento às
+populações indígenas.
+
+Nesse âmbito, a existência de barreiras linguísticas entre médicos e
+pacientes indígenas nos hospitais públicos em Roraima foi afirmada tanto
+pelos pacientes quanto pelos prestadores de cuidados em saúde. De acordo
+com Gomes (2018), em sua pesquisa sobre políticas públicas indígenas,
+56% dos entrevistados consideram que a barreira linguística sempre é um
+grande problema na relação entre o paciente indígena e a equipe médica.
+Essas barreiras acabam limitando a acessibilidade aos serviços de saúde
+e a qualidade dos cuidados prestados a essa população.
+
+Desse modo, a compreensão linguística limitada também afeta os
+profissionais de saúde, que, além de não dominarem as diferentes línguas
+de cada etnia, relatam dificuldades de comunicação com os intérpretes.
+Sbaraini (2016) relata que o intérprete nem sempre consegue transmitir
+com precisão o que o paciente indígena está dizendo, muitas vezes
+fornecendo instruções errôneas e repassando apenas parte das informações
+ao médico. Isso acaba por dificultar o trabalho, pois o intérprete pode
+omitir detalhes importantes, reduzindo o que foi comunicado pelo
+paciente ao mínimo necessário.
+
+Por outro lado, entre os desafios enfrentados pela equipe médica que
+colaboram para prejudicar ainda mais a comunicação, destacam-se a
+escassez desses intérpretes fluentes na língua. De acordo com Gomes
+(2018), os profissionais de saúde queixam-se que isso colabora para a
+insuficiência na comunicação, pois, segundo eles, apesar de a unidade em
+que a pesquisa foi coletada contar com coordenação indígena disponível
+24 horas, há uma carência de intérpretes, que não consegue atender à
+demanda de diferentes línguas faladas pelas várias etnias atendidas
+diariamente no hospital.
+
+Ainda nesse âmbito dos percalços da comunicação, segundo relato de uma
+médica que atende indígenas, trazido por Sbaraini (2016), uma das causas
+que dificultam o diagnóstico no cotidiano médico é a barreira
+comunicacional existente para conseguir o histórico de saúde do
+paciente, haja vista, muitas vezes, o enfermo não estar disposto a
+conversar ou o intérprete não conseguir descrever com exatidão todo o
+curso patológico. Paralelamente, verifica-se que os indígenas utilizam
+muitos remédios caseiros antes de adentrar ao serviço médico, e a
+omissão e/ou ausência de clareza nesses relatos acabam por submeter os
+pacientes a procedimentos desnecessários, como biópsias.
+
+Acrescenta-se que a resistência à adesão às recomendações médicas pode
+ser atribuída, em grande parte, à incompreensão dos pacientes indígenas
+sobre os benefícios e necessidades dos tratamentos prescritos. Muitas
+vezes, a linguagem técnica e distante dos contextos culturais dos
+pacientes dificulta a implementação das orientações médicas. Os termos
+médicos específicos nem sempre são interpretados corretamente, o que
+pode resultar em mal-entendidos e equívocos no diagnóstico ou
+tratamento.
+
+Dessa forma, manuais, glossários, cartas e dicionários, especialmente
+desenvolvidos em línguas indígenas, tornam-se ferramentas indispensáveis
+para auxiliar os indígenas na adesão ao tratamento. Eles permitem que os
+pacientes recebam informações de maneira clara e acessível,
+proporcionando a compreensão adequada das instruções médicas e a
+importância da continuidade do tratamento. A implementação de um
+glossário padrão pode ajudar a uniformizar o atendimento prestado,
+garantindo que todos os pacientes recebam informações consistentes e
+precisas, independentemente do profissional ou do intérprete.
+
+Objetivos
+
+O projeto tem como objetivo geral fornecer um glossário digital ao
+Hospital Universitário da Universidade Federal de Roraima (HU-UFRR),
+destinado a ser utilizado tanto por médicos quanto por profissionais de
+saúde, visando facilitar a comunicação e melhorar o atendimento na ala
+indígena do hospital.
+
+Objetivos específicos:
+
+1.  Criar um glossário digital bilíngue com a descrição semiológica
+      detalhada dos 10 principais agravos de saúde que afetam a
+      população Yanomami: gripe, malária, pneumonia, diarreia, infecções
+      por animais peçonhentos, candidíase, HIV/AIDS, tuberculose,
+      varicela, leishmaniose (visceral e tegumentar) e hepatites virais.
+
+2.  Acrescentar ao glossário frases simples e objetivas destinadas ao
+      uso prático em situações de consulta e atendimento ao paciente,
+      traduzidas para o dialeto Yanomae, auxiliando na comunicação entre
+      profissionais de saúde e pacientes Yanomamis.
+
+Justificativa
+
+O atendimento de qualidade à população Yanomami em Roraima enfrenta
+desafios significativos devido às barreiras linguísticas e culturais. A
+falta de uma comunicação eficiente entre profissionais de saúde e
+pacientes frequentemente resulta em diagnósticos incorretos e
+tratamentos inadequados, agravando a situação de saúde dessa população
+vulnerável.
+
+Este projeto propõe a criação de um glossário bilíngue digital como
+solução prática para superar essas barreiras. Ao facilitar a
+comunicação, o glossário contribuirá para:
+
+-   Melhorar a precisão nos diagnósticos e tratamentos.
+
+-   Promover um atendimento mais humanizado e culturalmente adequado.
+
+-   Servir como ferramenta educativa para profissionais de saúde que
+      atuam na região.
+
+Roraima, que abriga a 5ª maior população indígena do Brasil, apresenta
+um cenário propício para a implementação deste projeto, que busca não
+apenas aprimorar o cuidado médico, mas também fortalecer o respeito à
+cultura Yanomami e sua integração ao sistema de saúde. O presente
+projeto surge como uma resposta a essa realidade, com o intuito de
+oferecer uma ferramenta prática e adaptada às necessidades locais: um
+glossário bilíngue digital. Este instrumento não apenas contribuirá para
+a redução das lacunas de comunicação entre profissionais de saúde e
+pacientes Yanomamis, mas também promoverá um atendimento mais humanizado
+e eficaz, respeitando as especificidades culturais e linguísticas dessa
+população.
+
+Além disso, ao integrar terminologias médicas e semiológicas
+frequentemente utilizadas no atendimento de doenças prevalentes entre os
+Yanomamis, o glossário também servirá como uma ferramenta educativa e de
+referência para profissionais de saúde que atuam na região. Dessa forma,
+espera-se não apenas melhorar a qualidade do cuidado prestado, mas
+também fomentar o respeito e a valorização da cultura Yanomami no
+contexto da saúde.
+
+METODOLOGIA
+
+A criação do glossário bilíngue visa facilitar a comunicação entre
+médicos, profissionais de saúde e pacientes Yanomamis, aprimorando o
+atendimento e servindo como base para o desenvolvimento futuro de um
+aplicativo eletrônico. O estudo será realizado em três etapas
+principais, detalhadas a seguir:
+
+TIPO DE ESTUDO
+
+Este estudo utiliza uma abordagem descritiva e observacional, com
+elementos prospectivos, visando desenvolver um recurso que promova a
+comunicação efetiva entre médicos e pacientes indígenas, com foco
+especial na etnia Yanomami.
+
+LÍNGUAS SELECIONADAS DA POPULAÇÃO YANOMAMI
+
+Os termos selecionados serão definidos com base em entrevistas
+realizadas com profissionais de saúde que atuam nos quatro principais
+subgrupos indígenas: Yanomami, Sanumá, Yanomam e Ninam. Esses grupos
+foram selecionados em razão de sua presença expressiva na área de
+fronteira e de suas necessidades específicas de saúde, bem como pelas
+opções dialetais que se almeja contemplar no glossário. Assim, o
+material abrangerá o par linguístico português–yanomami, incluindo as
+variações dialetais dos subgrupos pertinentes dessas populações, e a
+tradução será elaborada considerando as particularidades culturais.
+
+LEVANTAMENTO E SELEÇÃO DE DOENÇAS E TERMOS MÉDICOS
+
+Baseando-se em dados epidemiológicos de agravos à saúde nos Yanomamis,
+obtidos via sistema DATASUS, as doenças de maior impacto no TIY são:
+gripe, malária, pneumonia, diarreia, infecções por animais peçonhentos,
+candidíase, HIV/AIDS, tuberculose, varicela, leishmaniose e hepatites
+virais. Cada um desses agravos em saúde será apresentado com uma
+descrição detalhada dos principais sinais e sintomas clínicos que
+promovem. Nessa etapa, os termos mais relevantes para a comunicação
+serão identificados. Essa semiologia será fundamentada em obras
+referenciais, como Exame Clínico de Porto (2017) e Propedêutica Médica
+Essencial de Bickley e Szilagyi (2018). Além dos termos, serão
+desenvolvidas frases simples e objetivas utilizadas na rotina de
+atendimento, sempre considerando a relevância para a população Yanomami
+e a viabilidade de tradução. Essas frases, elaboradas com foco na
+comunicação básica em situações de cuidado à saúde, estarão disponíveis
+tanto em texto quanto em formato de áudio, acompanhadas da pronúncia
+correta. Exemplos de frases incluem: “Onde dói?”, “Você teve febre?”,
+“Há quanto tempo você sente isso?”. A inclusão de áudio é essencial para
+garantir a precisão da pronúncia e promover uma interação mais clara e
+eficaz. Essa abordagem visa auxiliar os profissionais de saúde na
+identificação e no manejo adequado dessas condições, respeitando o
+contexto cultural e linguístico da população indígena
+
+TRADUÇÃO E EQUIVALÊNCIA SEMÂNTICA
+
+A segunda etapa tratará da tradução e da equivalência semântica dos
+termos e frases, que serão traduzidos para os dialetos. Isso será feito
+com o apoio de uma enfermeira fluente, com ampla experiência no Distrito
+Sanitário Especial Indígena Yanomami. Após a tradução, a revisão do
+conteúdo será feito por uma antropóloga com atuação na área de educação
+e saúde da etnia Yanomami e fluente nos principais dialetos da língua
+Yanomami. Essas etapas garantirão que a tradução seja cultural e
+linguisticamente adequada.
+
+ELABORAÇÃO DO GLOSSÁRIO DIGITAL
+
+O glossário criado será disponibilizado para uso na plataforma digital
+Notion . Essa ferramenta será estruturada de maneira categorizada,
+agrupando os termos por áreas temáticas, com os sinais e sintomas, as
+partes do corpo, hipóteses diagnósticas, tratamentos e orientações
+gerais. Tal organização tornará mais efetiva a atuação do profissional
+da saúde com esta população. As principais áreas temáticas a serem
+incluídas são o sistema respiratório, cardiovascular, digestivo,
+urinário e cutâneo.
+
+CRITÉRIOS DE INCLUSÃO E EXCLUSÃO
+
+INCLUSÃO
+
+• Língua Yanomami: O glossário será desenvolvido exclusivamente para a
+etnia Yanomami, nos dialetos Yanomami, Sanumá, Yanomam e Ninam, visando
+abranger as variáveis linguísticas dessa população, incluindo suas
+diversas variantes. • Impacto no Contexto da Saúde: O glossário visa
+atender diretamente as demandas de comunicação entre profissionais de
+saúde e pacientes Yanomami, facilitando a assistência médica de maneira
+culturalmente sensível e eficaz. Serão priorizadas as 10 doenças mais
+prevalentes segundo o DATASUS para a seleção de termos e palavras a
+serem traduzidas. São elas: gripe, malária, pneumonia, diarreia,
+infecções por animais peçonhentos, candidíase, HIV/AIDS, tuberculose,
+varicela, leishmaniose - visceral e tegumentar, e hepatites virais). •
+Colaboração com Especialistas: A elaboração do glossário contará com o
+apoio de falantes nativos da língua Yanomami, linguistas especializados
+e profissionais de saúde, garantindo que as traduções sejam precisas e
+culturalmente adequadas
+
+EXCLUSÃO
+
+• Outras Etnias: O glossário não incluirá as línguas de outras etnias
+presentes no estado de Roraima, como Ingarikó, Macuxi, Patamona, Sapará,
+Taurepang, Waimiri Atroari, Waiwai, Wapichana, Warao e Ye’kwana. O foco
+será exclusivamente na população Yanomami. • Dialetos Menos
+Representativos: Dialetos com menor número de falantes ou com uso
+restrito a áreas específicas, que não apresentam impacto significativo
+no contexto de saúde, serão excluídos do glossário. • Línguas sem
+Materiais de Referência Adequados: Dialetos que não possuem dados
+confiáveis, como estudos linguísticos e gramaticais, bem como recursos
+de áudio, serão excluídos do escopo deste trabalho, a fim de garantir a
+precisão e a qualidade do glossário
+
+RISCOS E BENEFÍCIOS
+
+Principais Riscos
+
+-   Dificuldades Linguísticas:
+      Diferenças regionais nos dialetos Yanomami podem gerar variações
+      de pronúncia e significado, dificultando a padronização do
+      conteúdo.
+
+-   Falta de Recursos Documentais:
+      A escassez de materiais linguísticos confiáveis para determinados
+      dialetos pode comprometer a precisão e a validade das informações.
+
+-   Limitações de Tempo e Logística:
+      O trabalho de validação com falantes nativos e especialistas pode
+      ser impactado por dificuldades de acesso às comunidades ou pela
+      disponibilidade limitada de colaboradores.
+
+-   Risco de Incompreensão Cultural:
+      A tradução literal de alguns termos pode não refletir
+      adequadamente os conceitos culturais, gerando interpretações
+      equivocadas.
+
+-   Descontinuidade do Uso:
+      A não utilização ou integração efetiva do glossário pelos
+      profissionais de saúde pode comprometer os resultados pretendidos.
+
+Benefícios para a Saúde Indígena
+
+-   Melhoria na Comunicação:
+      O glossário, ao ser uma ferramenta prática e acessível, facilita a
+      interação entre os profissionais de saúde e as comunidades
+      indígenas, contribuindo para um atendimento mais eficiente e
+      humanizado.
+
+-   Respeito à Diversidade Cultural:
+      Ao incluir as línguas indígenas no contexto da saúde, o glossário
+      valoriza e preserva o patrimônio linguístico e cultural das
+      comunidades atendidas.
+
+-   Empoderamento das Comunidades:
+      A disponibilização de informações bilíngues promove a inclusão das
+      comunidades indígenas no processo de cuidado em saúde,
+      fortalecendo sua autonomia e participação.
+
+-   Aprimoramento Profissional:
+      O uso do glossário pelos profissionais de saúde possibilita um
+      maior entendimento das especificidades culturais e linguísticas
+      das populações indígenas, ampliando suas competências
+      interculturais.
+
+-   Contribuição Acadêmica:
+      A iniciativa fomenta o registro e a documentação de línguas
+      indígenas, auxiliando na preservação e disseminação do
+      conhecimento linguístico e cultural.
